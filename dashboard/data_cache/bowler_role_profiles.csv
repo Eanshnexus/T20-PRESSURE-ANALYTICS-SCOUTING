@@ -1,0 +1,648 @@
+bowler_id,primary_style,bowling_type,total_legal_balls,pp_balls,mid_balls,death_balls,pp_share_pct,mid_share_pct,death_share_pct,inferred_bowling_role
+23,Spin,Right-arm Leg-Break,576,78,468,30,13.5,81.2,5.2,Spin Bowler
+28,Pace,Right-arm fast-medium,422,258,90,74,61.1,21.3,17.5,Powerplay Bowler
+47,Pace,Right-arm medium,6,0,0,6,0.0,0.0,100.0,Death-Over Specialist
+143,Spin,Right-arm offbreak,6,0,0,6,0.0,0.0,100.0,Spin Bowler
+147,Pace,Left-arm medium-fast,54,24,30,0,44.4,55.6,0.0,Powerplay Bowler
+152,Spin,Slow left-arm orthodox,1396,42,1308,46,3.0,93.7,3.3,Spin Bowler
+158,Spin,Right-arm Leg-Break,126,0,102,24,0.0,81.0,19.0,Spin Bowler
+161,Pace,Right-arm medium-fast,206,12,96,98,5.8,46.6,47.6,Death-Over Specialist
+232,Spin,Right-arm offbreak,12,0,6,6,0.0,50.0,50.0,Spin Bowler
+278,Pace,Right-arm medium-fast,826,408,162,256,49.4,19.6,31.0,Powerplay Bowler
+286,Pace,Right-arm fast-medium,198,72,48,78,36.4,24.2,39.4,Death-Over Specialist
+295,Pace,Left-arm medium-fast,400,228,99,73,57.0,24.8,18.2,Powerplay Bowler
+305,Spin,Right-arm offbreak,1404,306,960,138,21.8,68.4,9.8,Spin Bowler
+332,Pace,Right-arm fast-medium,110,97,6,7,88.2,5.5,6.4,Powerplay Bowler
+360,Pace,Right-arm medium,2221,1338,180,703,60.2,8.1,31.7,Powerplay Bowler
+395,Spin,Right-arm Leg-Break,363,0,327,36,0.0,90.1,9.9,Spin Bowler
+403,Pace,Right-arm fast-medium,558,384,138,36,68.8,24.7,6.5,Powerplay Bowler
+470,Pace,Left-arm Fast,146,84,0,62,57.5,0.0,42.5,Death-Over Specialist
+479,Spin,Right-arm Leg-Break,1324,54,1102,168,4.1,83.2,12.7,Spin Bowler
+494,Pace,Right-arm medium-fast,185,0,143,42,0.0,77.3,22.7,Middle-Over Specialist
+499,Spin,Slow left-arm orthodox,340,108,174,58,31.8,51.2,17.1,Spin Bowler
+507,Spin,Right-arm offbreak,38,0,36,2,0.0,94.7,5.3,Spin Bowler
+722,Spin,Slow left-arm orthodox,415,126,246,43,30.4,59.3,10.4,Spin Bowler
+768,Spin,Right-arm offbreak,23,0,23,0,0.0,100.0,0.0,Spin Bowler
+773,Pace,Right-arm medium,90,18,30,42,20.0,33.3,46.7,Death-Over Specialist
+781,Spin,Right-arm offbreak,1533,207,1110,216,13.5,72.4,14.1,Spin Bowler
+786,Pace,Right-arm fast-medium,550,108,186,256,19.6,33.8,46.5,Death-Over Specialist
+818,Pace,Right-arm medium-fast,295,36,204,55,12.2,69.2,18.6,Middle-Over Specialist
+820,Pace,Right-arm fast-medium,18,0,12,6,0.0,66.7,33.3,Middle-Over Specialist
+829,Pace,Left-arm Fast,808,461,150,197,57.1,18.6,24.4,Powerplay Bowler
+830,Pace,Right-arm fast-medium,1476,798,277,401,54.1,18.8,27.2,Powerplay Bowler
+838,Spin,Right-arm offbreak,638,204,408,26,32.0,63.9,4.1,Spin Bowler
+914,Spin,Right-arm offbreak,180,60,108,12,33.3,60.0,6.7,Spin Bowler
+988,Spin,Right-arm Leg-Break,42,0,30,12,0.0,71.4,28.6,Spin Bowler
+1028,Pace,Right-arm fast-medium,30,12,12,6,40.0,40.0,20.0,Middle-Over Specialist
+1045,Pace,Right-arm medium-fast,18,12,6,0,66.7,33.3,0.0,Powerplay Bowler
+1071,Pace,Left-arm medium-fast,575,186,240,149,32.3,41.7,25.9,Middle-Over Specialist
+1101,Spin,Slow left-arm orthodox,186,0,150,36,0.0,80.6,19.4,Spin Bowler
+1107,Spin,Right-arm offbreak,680,96,540,44,14.1,79.4,6.5,Spin Bowler
+1159,Pace,Right-arm fast-medium,217,108,42,67,49.8,19.4,30.9,Powerplay Bowler
+1171,Pace,Right-arm fast-medium,164,132,12,20,80.5,7.3,12.2,Powerplay Bowler
+1195,Pace,Right-arm medium-fast,30,12,18,0,40.0,60.0,0.0,Middle-Over Specialist
+1219,Pace,Left-arm fast-medium,380,239,66,75,62.9,17.4,19.7,Powerplay Bowler
+1318,Pace,Right-arm fast-medium,754,126,347,281,16.7,46.0,37.3,Middle-Over Specialist
+1389,Pace,Right-arm fast-medium,442,150,162,130,33.9,36.7,29.4,Middle-Over Specialist
+1487,Pace,Right-arm Fast,545,294,102,149,53.9,18.7,27.3,Powerplay Bowler
+1541,Spin,Slow left-arm orthodox,162,6,144,12,3.7,88.9,7.4,Spin Bowler
+1556,Pace,Left-arm fast-medium,30,12,18,0,40.0,60.0,0.0,Middle-Over Specialist
+1566,Pace,Right-arm Fast,1275,840,189,246,65.9,14.8,19.3,Powerplay Bowler
+1596,Spin,Right-arm offbreak,805,174,581,50,21.6,72.2,6.2,Spin Bowler
+1612,Spin,Right-arm Leg-Break,2138,120,1631,387,5.6,76.3,18.1,Spin Bowler
+1617,Pace,Right-arm medium-fast,174,78,90,6,44.8,51.7,3.4,Powerplay Bowler
+1699,Spin,Right-arm offbreak,6,0,0,6,0.0,0.0,100.0,Spin Bowler
+1701,Spin,Slow left-arm orthodox,102,42,60,0,41.2,58.8,0.0,Spin Bowler
+1758,Pace,Right-arm Fast,1215,492,390,333,40.5,32.1,27.4,Middle-Over Specialist
+1772,Pace,Left-arm fast-medium,215,132,36,47,61.4,16.7,21.9,Powerplay Bowler
+1813,Pace,Right-arm medium,917,691,114,112,75.4,12.4,12.2,Powerplay Bowler
+1944,Spin,Slow left-arm orthodox,598,96,480,22,16.1,80.3,3.7,Spin Bowler
+2054,Pace,Left-arm fast-medium,438,264,72,102,60.3,16.4,23.3,Powerplay Bowler
+2210,Spin,Right-arm Leg-Break,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+2213,Pace,Right-arm medium-fast,42,0,36,6,0.0,85.7,14.3,Middle-Over Specialist
+2214,Pace,Right-arm medium-fast,54,0,36,18,0.0,66.7,33.3,Middle-Over Specialist
+2261,Pace,Right-arm medium-fast,1643,168,810,665,10.2,49.3,40.5,Death-Over Specialist
+2296,Pace,Right-arm medium-fast,33,6,18,9,18.2,54.5,27.3,Middle-Over Specialist
+2304,Pace,Left-arm medium-fast,229,48,102,79,21.0,44.5,34.5,Middle-Over Specialist
+2315,Pace,Left-arm medium-fast,615,352,90,173,57.2,14.6,28.1,Powerplay Bowler
+2320,Pace,Left-arm fast-medium,1543,960,258,325,62.2,16.7,21.1,Powerplay Bowler
+2321,Pace,Right-arm Fast,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+2334,Pace,Right-arm medium-fast,308,30,144,134,9.7,46.8,43.5,Death-Over Specialist
+2351,Spin,Right-arm offbreak,5,0,0,5,0.0,0.0,100.0,Spin Bowler
+2359,Spin,Right-arm offbreak,42,0,42,0,0.0,100.0,0.0,Spin Bowler
+2364,Spin,Slow left-arm orthodox,144,6,126,12,4.2,87.5,8.3,Spin Bowler
+2367,Spin,Right-arm offbreak,16,0,10,6,0.0,62.5,37.5,Spin Bowler
+2382,Pace,Right-arm Fast,497,80,281,136,16.1,56.5,27.4,Middle-Over Specialist
+2399,Pace,Right-arm Fast,1151,504,312,335,43.8,27.1,29.1,Powerplay Bowler
+2407,Spin,Right-arm offbreak,81,17,58,6,21.0,71.6,7.4,Spin Bowler
+2411,Pace,Right-arm medium-fast,965,442,186,337,45.8,19.3,34.9,Powerplay Bowler
+2416,Pace,Right-arm medium,138,114,12,12,82.6,8.7,8.7,Powerplay Bowler
+2417,Spin,Slow left-arm orthodox,1692,792,798,102,46.8,47.2,6.0,Spin Bowler
+2418,Pace,Right-arm medium,6,0,6,0,0.0,100.0,0.0,Middle-Over Specialist
+2436,Pace,Right-arm medium,529,72,360,97,13.6,68.1,18.3,Middle-Over Specialist
+2439,Spin,Right-arm offbreak,36,6,30,0,16.7,83.3,0.0,Spin Bowler
+2463,Spin,Right-arm Leg-Break,318,0,300,18,0.0,94.3,5.7,Spin Bowler
+2483,Pace,Right-arm medium-fast,259,132,48,79,51.0,18.5,30.5,Powerplay Bowler
+2490,Spin,Slow left-arm orthodox,1004,186,768,50,18.5,76.5,5.0,Spin Bowler
+2526,Spin,Right-arm Leg-Break,1175,24,1069,82,2.0,91.0,7.0,Spin Bowler
+2531,Spin,Right-arm offbreak,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+2633,Pace,Right-arm medium-fast,1928,576,723,629,29.9,37.5,32.6,Middle-Over Specialist
+2636,Spin,Right-arm Leg-Break,1152,84,840,228,7.3,72.9,19.8,Spin Bowler
+2639,Pace,Right-arm medium,747,165,444,138,22.1,59.4,18.5,Middle-Over Specialist
+2650,Pace,Left-arm medium-fast,30,0,18,12,0.0,60.0,40.0,Death-Over Specialist
+2681,Pace,Right-arm Fast,1040,486,287,267,46.7,27.6,25.7,Powerplay Bowler
+2687,Spin,Right-arm offbreak,834,162,610,62,19.4,73.1,7.4,Spin Bowler
+2756,Pace,Right-arm medium-fast,90,0,72,18,0.0,80.0,20.0,Middle-Over Specialist
+2790,Spin,Right-arm Leg-Break,30,0,30,0,0.0,100.0,0.0,Spin Bowler
+2847,Pace,Right-arm medium,966,328,301,337,34.0,31.2,34.9,Middle-Over Specialist
+2852,Spin,Slow left-arm orthodox,108,18,84,6,16.7,77.8,5.6,Spin Bowler
+2863,Pace,Right-arm medium,66,60,6,0,90.9,9.1,0.0,Powerplay Bowler
+2872,Pace,Right-arm medium-fast,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+2876,Spin,Slow left-arm orthodox,2670,642,1788,240,24.0,67.0,9.0,Spin Bowler
+2877,Pace,Right-arm medium,9,0,6,3,0.0,66.7,33.3,Middle-Over Specialist
+2878,Pace,Right-arm medium-fast,649,60,300,289,9.2,46.2,44.5,Death-Over Specialist
+2887,Spin,Slow left-arm orthodox,96,6,78,12,6.2,81.2,12.5,Spin Bowler
+2933,Pace,Right-arm Fast,1708,750,408,550,43.9,23.9,32.2,Powerplay Bowler
+2972,Spin,Slow left-arm orthodox,306,30,240,36,9.8,78.4,11.8,Spin Bowler
+2984,Spin,Right-arm offbreak,1091,78,905,108,7.1,83.0,9.9,Spin Bowler
+2985,Pace,Right-arm fast-medium,281,108,95,78,38.4,33.8,27.8,Middle-Over Specialist
+2997,Pace,Right-arm fast-medium,187,48,102,37,25.7,54.5,19.8,Middle-Over Specialist
+3033,Spin,Right-arm Leg-Break,96,0,96,0,0.0,100.0,0.0,Spin Bowler
+3038,Pace,Right-arm Fast,36,0,24,12,0.0,66.7,33.3,Middle-Over Specialist
+3040,Pace,Right-arm medium-fast,11,6,0,5,54.5,0.0,45.5,Death-Over Specialist
+3056,Spin,Right-arm offbreak,186,6,168,12,3.2,90.3,6.5,Spin Bowler
+3077,Spin,Right-arm Leg-Break,120,0,114,6,0.0,95.0,5.0,Spin Bowler
+3135,Spin,Right-arm Leg-Break,36,0,36,0,0.0,100.0,0.0,Spin Bowler
+3174,Pace,Right-arm fast-medium,622,384,120,118,61.7,19.3,19.0,Powerplay Bowler
+3253,Spin,Right-arm offbreak,24,12,6,6,50.0,25.0,25.0,Spin Bowler
+3255,Spin,Slow left-arm orthodox,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+3272,Spin,Slow left-arm orthodox,179,42,102,35,23.5,57.0,19.6,Spin Bowler
+3275,Pace,Right-arm medium-fast,1153,384,379,390,33.3,32.9,33.8,Middle-Over Specialist
+3276,Spin,Slow left-arm orthodox,738,60,618,60,8.1,83.7,8.1,Spin Bowler
+3280,Spin,Right-arm offbreak,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+3281,Spin,Right-arm offbreak,159,30,120,9,18.9,75.5,5.7,Spin Bowler
+3282,Spin,Right-arm offbreak,234,36,186,12,15.4,79.5,5.1,Spin Bowler
+3285,Pace,Left-arm fast-medium,149,48,60,41,32.2,40.3,27.5,Middle-Over Specialist
+3298,Pace,Right-arm Fast,1259,708,198,353,56.2,15.7,28.0,Powerplay Bowler
+3299,Pace,Right-arm medium-fast,66,24,18,24,36.4,27.3,36.4,Middle-Over Specialist
+3320,Spin,Right-arm offbreak,24,12,6,6,50.0,25.0,25.0,Spin Bowler
+3323,Pace,Right-arm medium-fast,526,66,330,130,12.5,62.7,24.7,Middle-Over Specialist
+3330,Pace,Right-arm medium-fast,1825,666,906,253,36.5,49.6,13.9,Middle-Over Specialist
+3337,Pace,Right-arm fast-medium,18,12,6,0,66.7,33.3,0.0,Powerplay Bowler
+3361,Spin,Right-arm offbreak,30,6,24,0,20.0,80.0,0.0,Spin Bowler
+3373,Pace,Right-arm medium-fast,183,30,120,33,16.4,65.6,18.0,Middle-Over Specialist
+3374,Spin,Slow left-arm orthodox,6,0,0,6,0.0,0.0,100.0,Spin Bowler
+3383,Spin,Right-arm offbreak,60,0,48,12,0.0,80.0,20.0,Spin Bowler
+3469,Spin,Right-arm Leg-Break,60,0,60,0,0.0,100.0,0.0,Spin Bowler
+3489,Spin,Right-arm offbreak,108,18,84,6,16.7,77.8,5.6,Spin Bowler
+3543,Spin,Slow left-arm orthodox,30,6,12,12,20.0,40.0,40.0,Spin Bowler
+3550,Spin,Slow left-arm orthodox,186,18,138,30,9.7,74.2,16.1,Spin Bowler
+3578,Spin,Slow left-arm orthodox,246,60,168,18,24.4,68.3,7.3,Spin Bowler
+3595,Spin,Right-arm offbreak,72,30,42,0,41.7,58.3,0.0,Spin Bowler
+3605,Spin,Right-arm offbreak,397,84,282,31,21.2,71.0,7.8,Spin Bowler
+3613,Spin,Slow left-arm orthodox,79,54,12,13,68.4,15.2,16.5,Spin Bowler
+3622,Spin,Right-arm Leg-Break,186,6,174,6,3.2,93.5,3.2,Spin Bowler
+3623,Pace,Right-arm medium-fast,158,84,18,56,53.2,11.4,35.4,Powerplay Bowler
+3627,Pace,Right-arm medium,144,18,108,18,12.5,75.0,12.5,Middle-Over Specialist
+3628,Pace,Right-arm Fast,1533,876,297,360,57.1,19.4,23.5,Powerplay Bowler
+3629,Pace,Right-arm fast-medium,367,78,186,103,21.3,50.7,28.1,Middle-Over Specialist
+3637,Pace,Right-arm medium-fast,24,6,18,0,25.0,75.0,0.0,Middle-Over Specialist
+3641,Pace,Left-arm fast-medium,324,138,96,90,42.6,29.6,27.8,Powerplay Bowler
+3644,Spin,Left-arm Chinaman,1914,18,1610,286,0.9,84.1,14.9,Spin Bowler
+3647,Spin,Right-arm offbreak,8,0,0,8,0.0,0.0,100.0,Spin Bowler
+3648,Spin,Right-arm offbreak,131,12,102,17,9.2,77.9,13.0,Spin Bowler
+3653,Pace,Right-arm medium,1672,557,516,599,33.3,30.9,35.8,Middle-Over Specialist
+3660,Pace,Left-arm fast-medium,324,216,24,84,66.7,7.4,25.9,Powerplay Bowler
+3664,Pace,Left-arm medium-fast,342,192,60,90,56.1,17.5,26.3,Powerplay Bowler
+3673,Spin,Right-arm offbreak,150,24,114,12,16.0,76.0,8.0,Spin Bowler
+3683,Pace,Right-arm Fast,36,12,18,6,33.3,50.0,16.7,Middle-Over Specialist
+3686,Pace,Right-arm fast-medium,97,36,30,31,37.1,30.9,32.0,Middle-Over Specialist
+3689,Spin,Slow left-arm orthodox,125,12,95,18,9.6,76.0,14.4,Spin Bowler
+3697,Pace,Right-arm medium,627,324,146,157,51.7,23.3,25.0,Powerplay Bowler
+3720,Pace,Right-arm medium,466,168,201,97,36.1,43.1,20.8,Middle-Over Specialist
+3727,Spin,Right-arm offbreak,151,66,55,30,43.7,36.4,19.9,Spin Bowler
+3771,Pace,Right-arm medium,97,66,24,7,68.0,24.7,7.2,Powerplay Bowler
+3772,Pace,Right-arm medium-fast,132,54,30,48,40.9,22.7,36.4,Middle-Over Specialist
+3775,Pace,Right-arm Fast,44,24,8,12,54.5,18.2,27.3,Powerplay Bowler
+3782,Spin,Right-arm offbreak,18,0,12,6,0.0,66.7,33.3,Spin Bowler
+3802,Spin,Slow left-arm orthodox,20,0,12,8,0.0,60.0,40.0,Spin Bowler
+3839,Pace,Right-arm medium,54,36,0,18,66.7,0.0,33.3,Powerplay Bowler
+3858,Spin,Right-arm offbreak,2,0,0,2,0.0,0.0,100.0,Spin Bowler
+3871,Spin,Slow left-arm orthodox,108,12,78,18,11.1,72.2,16.7,Spin Bowler
+3876,Pace,Right-arm medium,72,6,60,6,8.3,83.3,8.3,Middle-Over Specialist
+3926,Spin,Right-arm Leg-Break,49,0,36,13,0.0,73.5,26.5,Spin Bowler
+3986,Spin,Right-arm offbreak,36,18,18,0,50.0,50.0,0.0,Spin Bowler
+3995,Pace,Right-arm fast-medium,30,24,0,6,80.0,0.0,20.0,Powerplay Bowler
+4101,Spin,Slow left-arm orthodox,1737,312,1242,183,18.0,71.5,10.5,Spin Bowler
+4106,Pace,Right-arm medium,80,0,60,20,0.0,75.0,25.0,Middle-Over Specialist
+4111,Spin,Slow left-arm orthodox,60,12,36,12,20.0,60.0,20.0,Spin Bowler
+4117,Spin,Right-arm Leg-Break,1,0,0,1,0.0,0.0,100.0,Spin Bowler
+4201,Pace,Left-arm fast-medium,308,114,112,82,37.0,36.4,26.6,Middle-Over Specialist
+4219,Spin,Slow left-arm orthodox,1257,240,936,81,19.1,74.5,6.4,Spin Bowler
+4221,Spin,Right-arm offbreak,24,6,18,0,25.0,75.0,0.0,Spin Bowler
+4229,Spin,Slow left-arm orthodox,283,48,216,19,17.0,76.3,6.7,Spin Bowler
+4235,Pace,Right-arm fast-medium,72,18,30,24,25.0,41.7,33.3,Middle-Over Specialist
+4237,Spin,Left-arm Chinaman,310,12,258,40,3.9,83.2,12.9,Spin Bowler
+4246,Spin,Right-arm offbreak,101,18,66,17,17.8,65.3,16.8,Spin Bowler
+4265,Pace,Left-arm medium,1052,258,352,442,24.5,33.5,42.0,Death-Over Specialist
+4276,Pace,Right-arm fast-medium,96,42,36,18,43.8,37.5,18.8,Powerplay Bowler
+4288,Pace,Right-arm medium,90,18,54,18,20.0,60.0,20.0,Middle-Over Specialist
+4373,Pace,Left-arm medium,1576,498,444,634,31.6,28.2,40.2,Death-Over Specialist
+4391,Spin,Right-arm Leg-Break,594,30,498,66,5.1,83.8,11.1,Spin Bowler
+4409,Pace,Left-arm medium-fast,1350,474,450,426,35.1,33.3,31.6,Middle-Over Specialist
+4412,Spin,Right-arm offbreak,30,0,24,6,0.0,80.0,20.0,Spin Bowler
+4417,Pace,Right-arm Fast,42,36,0,6,85.7,0.0,14.3,Powerplay Bowler
+4438,Pace,Right-arm medium,90,42,6,42,46.7,6.7,46.7,Death-Over Specialist
+4450,Pace,Right-arm medium-fast,30,12,6,12,40.0,20.0,40.0,Death-Over Specialist
+4460,Spin,Right-arm Leg-Break,120,0,90,30,0.0,75.0,25.0,Spin Bowler
+4487,Pace,Right-arm medium,567,102,324,141,18.0,57.1,24.9,Middle-Over Specialist
+4489,Pace,Right-arm medium-fast,1173,366,450,357,31.2,38.4,30.4,Middle-Over Specialist
+4499,Pace,Right-arm fast-medium,228,150,18,60,65.8,7.9,26.3,Powerplay Bowler
+4505,Pace,Right-arm Fast,120,54,18,48,45.0,15.0,40.0,Death-Over Specialist
+4604,Spin,Right-arm Leg-Break,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+4636,Spin,Slow left-arm orthodox,210,84,120,6,40.0,57.1,2.9,Spin Bowler
+4639,Spin,Slow left-arm orthodox,480,126,324,30,26.2,67.5,6.2,Spin Bowler
+4641,Pace,Right-arm Fast,798,387,167,244,48.5,20.9,30.6,Powerplay Bowler
+4658,Spin,Slow left-arm orthodox,600,294,258,48,49.0,43.0,8.0,Spin Bowler
+4662,Spin,Right-arm offbreak,120,0,114,6,0.0,95.0,5.0,Spin Bowler
+4686,Pace,Right-arm medium,48,0,48,0,0.0,100.0,0.0,Middle-Over Specialist
+4692,Pace,Right-arm Fast,1076,332,420,324,30.9,39.0,30.1,Middle-Over Specialist
+4708,Spin,Right-arm offbreak,10,0,0,10,0.0,0.0,100.0,Spin Bowler
+4716,Spin,Slow left-arm orthodox,137,12,108,17,8.8,78.8,12.4,Spin Bowler
+4722,Spin,Right-arm Leg-Break,2747,270,1955,522,9.8,71.2,19.0,Spin Bowler
+4755,Pace,Right-arm medium,469,12,385,72,2.6,82.1,15.4,Middle-Over Specialist
+4779,Pace,Right-arm medium,114,48,36,30,42.1,31.6,26.3,Powerplay Bowler
+4780,Spin,Right-arm offbreak,123,0,111,12,0.0,90.2,9.8,Spin Bowler
+4790,Pace,Right-arm Fast,110,48,36,26,43.6,32.7,23.6,Powerplay Bowler
+4793,Spin,Right-arm offbreak,12,6,6,0,50.0,50.0,0.0,Spin Bowler
+4807,Pace,Left-arm Fast,780,330,272,178,42.3,34.9,22.8,Powerplay Bowler
+4812,Spin,Right-arm offbreak,228,48,174,6,21.1,76.3,2.6,Spin Bowler
+4815,Spin,Right-arm Leg-Break,390,6,366,18,1.5,93.8,4.6,Spin Bowler
+4816,Pace,Left-arm medium,1198,762,144,292,63.6,12.0,24.4,Powerplay Bowler
+4821,Spin,Slow left-arm orthodox,30,0,30,0,0.0,100.0,0.0,Spin Bowler
+4823,Spin,Right-arm offbreak,789,189,480,120,24.0,60.8,15.2,Spin Bowler
+4824,Spin,Right-arm Leg-Break,203,0,180,23,0.0,88.7,11.3,Spin Bowler
+4826,Pace,Left-arm Fast,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+4837,Pace,Left-arm fast-medium,641,192,204,245,30.0,31.8,38.2,Death-Over Specialist
+4838,Pace,Right-arm fast-medium,90,30,48,12,33.3,53.3,13.3,Middle-Over Specialist
+4840,Pace,Right-arm fast-medium,384,84,204,96,21.9,53.1,25.0,Middle-Over Specialist
+4842,Pace,Right-arm medium,196,24,112,60,12.2,57.1,30.6,Middle-Over Specialist
+4853,Spin,Right-arm offbreak,113,6,96,11,5.3,85.0,9.7,Spin Bowler
+4854,Spin,Slow left-arm orthodox,132,6,120,6,4.5,90.9,4.5,Spin Bowler
+4856,Pace,Right-arm medium-fast,453,145,188,120,32.0,41.5,26.5,Middle-Over Specialist
+4857,Pace,Right-arm medium-fast,102,36,24,42,35.3,23.5,41.2,Death-Over Specialist
+4867,Spin,Right-arm offbreak,96,24,72,0,25.0,75.0,0.0,Spin Bowler
+4870,Pace,Right-arm Fast,24,12,0,12,50.0,0.0,50.0,Death-Over Specialist
+4871,Spin,Right-arm Leg-Break,42,0,42,0,0.0,100.0,0.0,Spin Bowler
+4874,Pace,Left-arm fast-medium,846,474,80,292,56.0,9.5,34.5,Powerplay Bowler
+4876,Spin,Slow left-arm orthodox,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+4881,Spin,Right-arm offbreak,36,30,0,6,83.3,0.0,16.7,Spin Bowler
+4882,Spin,Right-arm Leg-Break,49,0,42,7,0.0,85.7,14.3,Spin Bowler
+4895,Spin,Right-arm offbreak,161,6,139,16,3.7,86.3,9.9,Spin Bowler
+4900,Spin,Right-arm Leg-Break,2035,139,1626,270,6.8,79.9,13.3,Spin Bowler
+4901,Pace,Right-arm medium-fast,120,60,18,42,50.0,15.0,35.0,Powerplay Bowler
+4903,Pace,Right-arm Fast,71,30,30,11,42.3,42.3,15.5,Powerplay Bowler
+4904,Spin,Slow left-arm orthodox,150,0,144,6,0.0,96.0,4.0,Spin Bowler
+4926,Spin,Right-arm Leg-Break,832,12,754,66,1.4,90.6,7.9,Spin Bowler
+4947,Pace,Right-arm medium-fast,108,60,12,36,55.6,11.1,33.3,Powerplay Bowler
+4974,Pace,Right-arm medium-fast,60,12,30,18,20.0,50.0,30.0,Middle-Over Specialist
+4986,Pace,Right-arm medium-fast,73,0,60,13,0.0,82.2,17.8,Middle-Over Specialist
+5034,Spin,Right-arm Leg-Break,198,54,132,12,27.3,66.7,6.1,Spin Bowler
+5041,Pace,Right-arm Fast,1148,492,248,408,42.9,21.6,35.5,Powerplay Bowler
+5189,Pace,Right-arm Fast,442,186,156,100,42.1,35.3,22.6,Powerplay Bowler
+5231,Pace,Right-arm Fast,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+5379,Pace,Right-arm fast-medium,845,456,72,317,54.0,8.5,37.5,Powerplay Bowler
+5441,Pace,Right-arm medium,619,258,168,193,41.7,27.1,31.2,Middle-Over Specialist
+5547,Spin,Slow left-arm orthodox,78,60,18,0,76.9,23.1,0.0,Spin Bowler
+5561,Pace,Right-arm fast-medium,36,18,6,12,50.0,16.7,33.3,Powerplay Bowler
+5562,Pace,Right-arm medium,194,72,60,62,37.1,30.9,32.0,Middle-Over Specialist
+5577,Spin,Slow left-arm orthodox,489,24,384,81,4.9,78.5,16.6,Spin Bowler
+5665,Spin,Slow left-arm orthodox,12,6,6,0,50.0,50.0,0.0,Spin Bowler
+5738,Pace,Right-arm fast-medium,624,339,136,149,54.3,21.8,23.9,Powerplay Bowler
+5750,Spin,Right-arm offbreak,323,114,83,126,35.3,25.7,39.0,Spin Bowler
+5808,Pace,Right-arm medium,263,6,180,77,2.3,68.4,29.3,Middle-Over Specialist
+5809,Pace,Right-arm medium-fast,786,342,138,306,43.5,17.6,38.9,Death-Over Specialist
+5837,Spin,Right-arm offbreak,914,420,426,68,46.0,46.6,7.4,Spin Bowler
+5844,Pace,Right-arm Fast,72,18,36,18,25.0,50.0,25.0,Middle-Over Specialist
+5866,Pace,Right-arm medium,116,6,80,30,5.2,69.0,25.9,Middle-Over Specialist
+5882,Spin,Right-arm offbreak,30,0,24,6,0.0,80.0,20.0,Spin Bowler
+5892,Pace,Right-arm Fast,215,84,48,83,39.1,22.3,38.6,Death-Over Specialist
+5939,Pace,Right-arm medium,753,192,428,133,25.5,56.8,17.7,Middle-Over Specialist
+5940,Pace,Right-arm Fast,310,78,114,118,25.2,36.8,38.1,Death-Over Specialist
+5944,Pace,Right-arm medium-fast,1806,1146,228,432,63.5,12.6,23.9,Powerplay Bowler
+5977,Spin,Slow left-arm orthodox,120,30,72,18,25.0,60.0,15.0,Spin Bowler
+5979,Spin,Right-arm Leg-Break,764,150,505,109,19.6,66.1,14.3,Spin Bowler
+6025,Pace,Right-arm Fast,78,36,12,30,46.2,15.4,38.5,Death-Over Specialist
+6097,Pace,Right-arm Fast,268,100,102,66,37.3,38.1,24.6,Middle-Over Specialist
+6160,Pace,Right-arm medium-fast,336,59,222,55,17.6,66.1,16.4,Middle-Over Specialist
+6161,Spin,Right-arm Leg-Break,866,6,726,134,0.7,83.8,15.5,Spin Bowler
+6162,Pace,Left-arm medium-fast,56,12,30,14,21.4,53.6,25.0,Middle-Over Specialist
+6166,Pace,Right-arm medium,12,6,6,0,50.0,50.0,0.0,Powerplay Bowler
+6179,Pace,Right-arm fast-medium,90,36,30,24,40.0,33.3,26.7,Middle-Over Specialist
+6180,Spin,Slow left-arm orthodox,48,6,36,6,12.5,75.0,12.5,Spin Bowler
+6188,Pace,Right-arm offbreak,12,6,6,0,50.0,50.0,0.0,Powerplay Bowler
+6196,Pace,Right-arm Fast,120,60,42,18,50.0,35.0,15.0,Powerplay Bowler
+6237,Spin,Slow left-arm orthodox,186,72,90,24,38.7,48.4,12.9,Spin Bowler
+6256,Spin,Right-arm Leg-Break,2128,354,1458,316,16.6,68.5,14.8,Spin Bowler
+6272,Spin,Right-arm offbreak,413,138,234,41,33.4,56.7,9.9,Spin Bowler
+6281,Spin,Slow left-arm orthodox,457,78,324,55,17.1,70.9,12.0,Spin Bowler
+6284,Spin,Slow left-arm orthodox,311,114,162,35,36.7,52.1,11.3,Spin Bowler
+6285,Pace,Right-arm Fast,12,6,6,0,50.0,50.0,0.0,Powerplay Bowler
+6286,Pace,Right-arm Fast,216,66,66,84,30.6,30.6,38.9,Death-Over Specialist
+6287,Pace,Right-arm medium,569,174,190,205,30.6,33.4,36.0,Middle-Over Specialist
+6297,Spin,Right-arm Leg-Break,36,0,30,6,0.0,83.3,16.7,Spin Bowler
+6350,Spin,Slow left-arm orthodox,120,42,72,6,35.0,60.0,5.0,Spin Bowler
+6354,Pace,Left-arm Fast,438,240,108,90,54.8,24.7,20.5,Powerplay Bowler
+6355,Pace,Left-arm Fast,990,578,138,274,58.4,13.9,27.7,Powerplay Bowler
+6356,Pace,Right-arm medium,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+6359,Spin,Right-arm Leg-Break,90,0,84,6,0.0,93.3,6.7,Spin Bowler
+6389,Spin,Slow left-arm orthodox,102,42,60,0,41.2,58.8,0.0,Spin Bowler
+6396,Spin,Right-arm offbreak,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+6398,Pace,Right-arm medium-fast,271,114,115,42,42.1,42.4,15.5,Powerplay Bowler
+6423,Spin,Right-arm offbreak,260,6,234,20,2.3,90.0,7.7,Spin Bowler
+6436,Spin,Right-arm Leg-Break,192,0,162,30,0.0,84.4,15.6,Spin Bowler
+6449,Pace,Right-arm medium,31,18,6,7,58.1,19.4,22.6,Powerplay Bowler
+6450,Spin,Right-arm offbreak,820,420,324,76,51.2,39.5,9.3,Spin Bowler
+6460,Spin,Right-arm offbreak,77,7,54,16,9.1,70.1,20.8,Spin Bowler
+6464,Pace,Left-arm medium-fast,3207,1655,467,1085,51.6,14.6,33.8,Powerplay Bowler
+6466,Spin,Slow left-arm orthodox,1,0,0,1,0.0,0.0,100.0,Spin Bowler
+6489,Pace,Right-arm fast-medium,84,12,54,18,14.3,64.3,21.4,Middle-Over Specialist
+6503,Pace,Right-arm Fast,120,18,36,66,15.0,30.0,55.0,Death-Over Specialist
+6506,Pace,Right-arm medium,72,48,18,6,66.7,25.0,8.3,Powerplay Bowler
+6512,Spin,Right-arm offbreak,678,174,474,30,25.7,69.9,4.4,Spin Bowler
+6515,Pace,Left-arm medium,245,138,36,71,56.3,14.7,29.0,Powerplay Bowler
+6518,Pace,Left-arm fast-medium,350,168,116,66,48.0,33.1,18.9,Powerplay Bowler
+6523,Pace,Right-arm fast-medium,820,447,114,259,54.5,13.9,31.6,Powerplay Bowler
+6566,Pace,Right-arm medium-fast,54,18,24,12,33.3,44.4,22.2,Middle-Over Specialist
+6574,Spin,Right-arm offbreak,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+6591,Pace,Right-arm medium,84,18,48,18,21.4,57.1,21.4,Middle-Over Specialist
+6628,Pace,Right-arm Fast,592,222,174,196,37.5,29.4,33.1,Middle-Over Specialist
+6643,Pace,Right-arm Fast,396,132,156,108,33.3,39.4,27.3,Middle-Over Specialist
+6651,Spin,Right-arm offbreak,2,0,0,2,0.0,0.0,100.0,Spin Bowler
+6664,Pace,Right-arm medium,12,0,12,0,0.0,100.0,0.0,Middle-Over Specialist
+6669,Pace,Left-arm medium-fast,654,318,168,168,48.6,25.7,25.7,Powerplay Bowler
+6671,Spin,Right-arm offbreak,204,90,90,24,44.1,44.1,11.8,Spin Bowler
+6676,Pace,Right-arm medium-fast,1067,582,282,203,54.5,26.4,19.0,Powerplay Bowler
+6677,Pace,Right-arm Fast,222,114,42,66,51.4,18.9,29.7,Powerplay Bowler
+6683,Spin,Right-arm Leg-Break,432,0,378,54,0.0,87.5,12.5,Spin Bowler
+6697,Spin,Slow left-arm orthodox,30,6,18,6,20.0,60.0,20.0,Spin Bowler
+6725,Pace,Right-arm fast-medium,18,0,18,0,0.0,100.0,0.0,Middle-Over Specialist
+6726,Pace,Right-arm fast-medium,1539,270,850,419,17.5,55.2,27.2,Middle-Over Specialist
+6764,Spin,Right-arm offbreak,6,0,0,6,0.0,0.0,100.0,Spin Bowler
+6772,Pace,Left-arm medium-fast,132,60,36,36,45.5,27.3,27.3,Powerplay Bowler
+6784,Pace,Right-arm medium,24,18,0,6,75.0,0.0,25.0,Powerplay Bowler
+6795,Pace,Right-arm medium-fast,26,0,18,8,0.0,69.2,30.8,Middle-Over Specialist
+6797,Pace,Left-arm medium-fast,126,36,48,42,28.6,38.1,33.3,Middle-Over Specialist
+6806,Pace,Right-arm medium,1037,510,180,347,49.2,17.4,33.5,Powerplay Bowler
+6819,Spin,Right-arm Leg-Break,7,0,0,7,0.0,0.0,100.0,Spin Bowler
+6926,Pace,Right-arm medium,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+6932,Pace,Right-arm medium-fast,145,54,48,43,37.2,33.1,29.7,Middle-Over Specialist
+6984,Spin,Right-arm Leg-Break,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+6985,Pace,Right-arm medium,72,6,48,18,8.3,66.7,25.0,Middle-Over Specialist
+6995,Spin,Slow left-arm orthodox,72,0,66,6,0.0,91.7,8.3,Spin Bowler
+7001,Pace,Right-arm medium,54,30,6,18,55.6,11.1,33.3,Powerplay Bowler
+7002,Spin,Right-arm offbreak,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+7008,Pace,Right-arm medium,65,36,23,6,55.4,35.4,9.2,Powerplay Bowler
+7049,Spin,Right-arm offbreak,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+7052,Spin,Slow left-arm orthodox,332,126,156,50,38.0,47.0,15.1,Spin Bowler
+7059,Spin,Right-arm Leg-Break,28,0,18,10,0.0,64.3,35.7,Spin Bowler
+7060,Pace,Left-arm medium-fast,97,54,26,17,55.7,26.8,17.5,Powerplay Bowler
+7094,Pace,Right-arm medium,396,84,258,54,21.2,65.2,13.6,Middle-Over Specialist
+7120,Spin,Right-arm offbreak,42,12,30,0,28.6,71.4,0.0,Spin Bowler
+7140,Spin,Slow left-arm orthodox,42,0,36,6,0.0,85.7,14.3,Spin Bowler
+7155,Spin,Right-arm offbreak,78,36,42,0,46.2,53.8,0.0,Spin Bowler
+7201,Pace,Right-arm medium,72,42,0,30,58.3,0.0,41.7,Death-Over Specialist
+7227,Pace,Right-arm medium,66,30,12,24,45.5,18.2,36.4,Powerplay Bowler
+7240,Pace,Left-arm medium,1027,588,102,337,57.3,9.9,32.8,Powerplay Bowler
+7241,Pace,Right-arm medium-fast,48,18,12,18,37.5,25.0,37.5,Middle-Over Specialist
+7250,Pace,Left-arm medium,483,330,72,81,68.3,14.9,16.8,Powerplay Bowler
+7269,Pace,Left-arm medium-fast,38,6,24,8,15.8,63.2,21.1,Middle-Over Specialist
+7270,Pace,Right-arm Fast,836,276,276,284,33.0,33.0,34.0,Middle-Over Specialist
+7312,Pace,Left-arm fast-medium,441,264,96,81,59.9,21.8,18.4,Powerplay Bowler
+7322,Pace,Left-arm medium-fast,871,438,205,228,50.3,23.5,26.2,Powerplay Bowler
+7325,Spin,Slow left-arm orthodox,667,132,480,55,19.8,72.0,8.2,Spin Bowler
+7327,Pace,Right-arm medium,542,168,198,176,31.0,36.5,32.5,Middle-Over Specialist
+7344,Pace,Left-arm medium-fast,790,417,190,183,52.8,24.1,23.2,Powerplay Bowler
+7354,Spin,Right-arm offbreak,24,6,18,0,25.0,75.0,0.0,Spin Bowler
+7364,Pace,Right-arm Fast,1027,378,276,373,36.8,26.9,36.3,Middle-Over Specialist
+7403,Spin,Slow left-arm orthodox,30,0,24,6,0.0,80.0,20.0,Spin Bowler
+7446,Spin,Right-arm Leg-Break,9,0,6,3,0.0,66.7,33.3,Spin Bowler
+7472,Spin,Slow left-arm orthodox,535,132,375,28,24.7,70.1,5.2,Spin Bowler
+7473,Pace,Right-arm Fast,278,120,114,44,43.2,41.0,15.8,Powerplay Bowler
+7503,Spin,Right-arm Leg-Break,2327,294,1686,347,12.6,72.5,14.9,Spin Bowler
+7533,Pace,Right-arm medium-fast,240,126,78,36,52.5,32.5,15.0,Powerplay Bowler
+7544,Pace,Right-arm medium,49,1,36,12,2.0,73.5,24.5,Middle-Over Specialist
+7545,Pace,Right-arm medium-fast,241,42,138,61,17.4,57.3,25.3,Middle-Over Specialist
+7574,Spin,Slow left-arm orthodox,282,6,252,24,2.1,89.4,8.5,Spin Bowler
+7625,Pace,Right-arm Fast,60,0,54,6,0.0,90.0,10.0,Middle-Over Specialist
+7634,Spin,Right-arm Leg-Break,18,0,6,12,0.0,33.3,66.7,Spin Bowler
+7689,Pace,Left-arm medium-fast,362,204,84,74,56.4,23.2,20.4,Powerplay Bowler
+7690,Spin,Right-arm offbreak,510,144,342,24,28.2,67.1,4.7,Spin Bowler
+7692,Spin,Right-arm offbreak,42,6,30,6,14.3,71.4,14.3,Spin Bowler
+7696,Pace,Right-arm medium,355,162,75,118,45.6,21.1,33.2,Powerplay Bowler
+7699,Pace,Right-arm medium-fast,453,102,224,127,22.5,49.4,28.0,Middle-Over Specialist
+7702,Pace,Right-arm Fast,42,36,6,0,85.7,14.3,0.0,Powerplay Bowler
+7704,Spin,Right-arm offbreak,12,0,0,12,0.0,0.0,100.0,Spin Bowler
+7709,Spin,Slow left-arm orthodox,66,24,36,6,36.4,54.5,9.1,Spin Bowler
+7710,Pace,Right-arm Fast,12,0,12,0,0.0,100.0,0.0,Middle-Over Specialist
+7741,Spin,Right-arm Leg-Break,552,60,414,78,10.9,75.0,14.1,Spin Bowler
+7755,Spin,Right-arm offbreak,48,12,24,12,25.0,50.0,25.0,Spin Bowler
+7756,Pace,Left-arm medium-fast,67,42,6,19,62.7,9.0,28.4,Powerplay Bowler
+7808,Pace,Left-arm medium-fast,1317,678,378,261,51.5,28.7,19.8,Powerplay Bowler
+7896,Pace,Left-arm medium-fast,223,157,60,6,70.4,26.9,2.7,Powerplay Bowler
+7897,Spin,Right-arm offbreak,85,6,66,13,7.1,77.6,15.3,Spin Bowler
+7903,Spin,Right-arm offbreak,103,3,82,18,2.9,79.6,17.5,Spin Bowler
+7905,Pace,Right-arm fast-medium,677,210,288,179,31.0,42.5,26.4,Middle-Over Specialist
+7906,Spin,Slow left-arm orthodox,180,54,114,12,30.0,63.3,6.7,Spin Bowler
+7912,Pace,Right-arm medium-fast,45,0,39,6,0.0,86.7,13.3,Middle-Over Specialist
+7914,Spin,Slow left-arm orthodox,36,30,0,6,83.3,0.0,16.7,Spin Bowler
+7916,Spin,Slow left-arm orthodox,18,0,18,0,0.0,100.0,0.0,Spin Bowler
+7920,Pace,Right-arm medium,916,264,298,354,28.8,32.5,38.6,Death-Over Specialist
+7927,Pace,Right-arm medium,54,12,18,24,22.2,33.3,44.4,Death-Over Specialist
+7928,Spin,Slow left-arm orthodox,65,24,41,0,36.9,63.1,0.0,Spin Bowler
+7929,Pace,Right-arm medium-fast,42,18,6,18,42.9,14.3,42.9,Death-Over Specialist
+7935,Spin,Right-arm Leg-Break,108,0,108,0,0.0,100.0,0.0,Spin Bowler
+7937,Spin,Slow left-arm orthodox,84,30,48,6,35.7,57.1,7.1,Spin Bowler
+7942,Spin,Right-arm offbreak,54,42,12,0,77.8,22.2,0.0,Spin Bowler
+7945,Pace,Right-arm medium-fast,72,12,48,12,16.7,66.7,16.7,Middle-Over Specialist
+7966,Pace,Right-arm medium-fast,36,0,30,6,0.0,83.3,16.7,Middle-Over Specialist
+7967,Spin,Left-arm Chinaman,1467,60,1190,217,4.1,81.1,14.8,Spin Bowler
+8005,Pace,Right-arm medium,78,18,24,36,23.1,30.8,46.2,Death-Over Specialist
+8009,Pace,Right-arm Fast,330,150,36,144,45.5,10.9,43.6,Death-Over Specialist
+8033,Pace,Right-arm medium-fast,60,18,18,24,30.0,30.0,40.0,Death-Over Specialist
+8049,Pace,Right-arm medium-fast,576,294,114,168,51.0,19.8,29.2,Powerplay Bowler
+8093,Spin,Right-arm Leg-Break,42,12,24,6,28.6,57.1,14.3,Spin Bowler
+8141,Pace,Right-arm medium,78,72,6,0,92.3,7.7,0.0,Powerplay Bowler
+8177,Pace,Right-arm medium-fast,352,78,138,136,22.2,39.2,38.6,Death-Over Specialist
+8182,Spin,Right-arm offbreak,109,12,79,18,11.0,72.5,16.5,Spin Bowler
+8221,Pace,Right-arm medium-fast,565,108,330,127,19.1,58.4,22.5,Middle-Over Specialist
+8266,Pace,Right-arm medium-fast,20,0,18,2,0.0,90.0,10.0,Middle-Over Specialist
+8295,Pace,Right-arm medium,408,246,78,84,60.3,19.1,20.6,Powerplay Bowler
+8298,Pace,Left-arm fast-medium,78,24,30,24,30.8,38.5,30.8,Middle-Over Specialist
+8311,Spin,Right-arm offbreak,54,6,24,24,11.1,44.4,44.4,Spin Bowler
+8326,Pace,Right-arm fast-medium,180,96,42,42,53.3,23.3,23.3,Powerplay Bowler
+8380,Spin,Right-arm Leg-Break,1018,0,880,138,0.0,86.4,13.6,Spin Bowler
+8389,Spin,Slow left-arm orthodox,18,6,12,0,33.3,66.7,0.0,Spin Bowler
+8424,Spin,Right-arm Leg-Break,168,0,156,12,0.0,92.9,7.1,Spin Bowler
+8530,Pace,Right-arm medium-fast,415,102,168,145,24.6,40.5,34.9,Middle-Over Specialist
+8580,Pace,Right-arm medium-fast,138,84,36,18,60.9,26.1,13.0,Powerplay Bowler
+8611,Spin,Right-arm Leg-Break,24,0,24,0,0.0,100.0,0.0,Spin Bowler
+8614,Pace,Right-arm Fast,182,78,72,32,42.9,39.6,17.6,Powerplay Bowler
+8623,Pace,Right-arm medium,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+8632,Pace,Right-arm medium,48,24,6,18,50.0,12.5,37.5,Powerplay Bowler
+8634,Pace,Left-arm medium,183,36,102,45,19.7,55.7,24.6,Middle-Over Specialist
+8638,Spin,Right-arm offbreak,138,12,102,24,8.7,73.9,17.4,Spin Bowler
+8639,Spin,Right-arm Leg-Break,96,0,90,6,0.0,93.8,6.2,Spin Bowler
+8654,Spin,Slow left-arm orthodox,114,48,60,6,42.1,52.6,5.3,Spin Bowler
+8661,Pace,Right-arm Fast,1132,74,519,539,6.5,45.8,47.6,Death-Over Specialist
+8664,Pace,Right-arm fast-medium,24,12,0,12,50.0,0.0,50.0,Death-Over Specialist
+8719,Spin,Slow left-arm orthodox,18,18,0,0,100.0,0.0,0.0,Spin Bowler
+8723,Spin,Right-arm offbreak,78,12,66,0,15.4,84.6,0.0,Spin Bowler
+8726,Pace,Right-arm medium,1,0,0,1,0.0,0.0,100.0,Death-Over Specialist
+8727,Pace,Right-arm medium-fast,36,18,12,6,50.0,33.3,16.7,Powerplay Bowler
+8743,Pace,Right-arm medium-fast,12,0,12,0,0.0,100.0,0.0,Middle-Over Specialist
+8746,Pace,Right-arm Fast,896,558,102,236,62.3,11.4,26.3,Powerplay Bowler
+8763,Pace,Left-arm Fast,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+8805,Pace,Right-arm medium-fast,323,120,102,101,37.2,31.6,31.3,Middle-Over Specialist
+15269,Spin,Slow left-arm orthodox,48,0,48,0,0.0,100.0,0.0,Spin Bowler
+15279,Spin,Right-arm Leg-Break,66,0,48,18,0.0,72.7,27.3,Spin Bowler
+15280,Pace,Right-arm medium,66,36,0,30,54.5,0.0,45.5,Death-Over Specialist
+16498,Pace,Slow left-arm orthodox,45,30,12,3,66.7,26.7,6.7,Powerplay Bowler
+17424,Pace,Right-arm fast-medium,188,90,42,56,47.9,22.3,29.8,Powerplay Bowler
+17430,Pace,Right-arm medium,30,0,30,0,0.0,100.0,0.0,Middle-Over Specialist
+17898,Pace,Right-arm medium,141,84,6,51,59.6,4.3,36.2,Powerplay Bowler
+17911,Spin,Slow left-arm orthodox,138,30,108,0,21.7,78.3,0.0,Spin Bowler
+17918,Pace,Right-arm medium,18,12,6,0,66.7,33.3,0.0,Powerplay Bowler
+17919,Pace,Right-arm Fast,18,0,12,6,0.0,66.7,33.3,Middle-Over Specialist
+17937,Spin,Slow left-arm orthodox,24,6,18,0,25.0,75.0,0.0,Spin Bowler
+19020,Pace,Right-arm medium,159,120,24,15,75.5,15.1,9.4,Powerplay Bowler
+19124,Spin,Slow left-arm orthodox,23,0,6,17,0.0,26.1,73.9,Spin Bowler
+19125,Pace,Right-arm medium,180,126,30,24,70.0,16.7,13.3,Powerplay Bowler
+19145,Pace,Right-arm medium,72,18,42,12,25.0,58.3,16.7,Middle-Over Specialist
+19147,Pace,Right-arm medium,99,30,54,15,30.3,54.5,15.2,Middle-Over Specialist
+19307,Spin,Slow left-arm orthodox,24,12,12,0,50.0,50.0,0.0,Spin Bowler
+19312,Pace,Right-arm medium-fast,775,451,96,228,58.2,12.4,29.4,Powerplay Bowler
+19315,Spin,Right-arm Leg-Break,156,6,138,12,3.8,88.5,7.7,Spin Bowler
+19316,Spin,Right-arm offbreak,2265,925,925,415,40.8,40.8,18.3,Spin Bowler
+19530,Pace,Right-arm medium,236,150,42,44,63.6,17.8,18.6,Powerplay Bowler
+19535,Pace,Right-arm medium,48,6,18,24,12.5,37.5,50.0,Death-Over Specialist
+19754,Pace,Right-arm medium-fast,48,12,12,24,25.0,25.0,50.0,Death-Over Specialist
+19781,Pace,Right-arm medium,30,0,18,12,0.0,60.0,40.0,Death-Over Specialist
+19892,Spin,Slow left-arm orthodox,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+19902,Spin,Slow left-arm orthodox,132,24,78,30,18.2,59.1,22.7,Spin Bowler
+19969,Spin,Right-arm offbreak,18,0,18,0,0.0,100.0,0.0,Spin Bowler
+19998,Pace,Right-arm medium,36,6,18,12,16.7,50.0,33.3,Middle-Over Specialist
+20005,Pace,Left-arm medium,376,186,96,94,49.5,25.5,25.0,Powerplay Bowler
+20006,Pace,Right-arm medium,148,18,72,58,12.2,48.6,39.2,Death-Over Specialist
+20175,Pace,Right-arm medium,6,6,0,0,100.0,0.0,0.0,Powerplay Bowler
+20229,Pace,Right-arm medium-fast,42,36,6,0,85.7,14.3,0.0,Powerplay Bowler
+20310,Pace,Right-arm medium-fast,174,45,54,75,25.9,31.0,43.1,Death-Over Specialist
+20316,Spin,Slow left-arm orthodox,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+20693,Pace,Left-arm medium-fast,42,12,18,12,28.6,42.9,28.6,Middle-Over Specialist
+20702,Spin,Right-arm offbreak,48,0,36,12,0.0,75.0,25.0,Spin Bowler
+20704,Pace,Left-arm medium,328,222,12,94,67.7,3.7,28.7,Powerplay Bowler
+20894,Pace,Right-arm medium,6,0,6,0,0.0,100.0,0.0,Middle-Over Specialist
+20989,Spin,Right-arm Leg-Break,18,0,18,0,0.0,100.0,0.0,Spin Bowler
+21196,Pace,Right-arm medium,24,12,6,6,50.0,25.0,25.0,Powerplay Bowler
+21780,Pace,Right-arm medium,60,24,24,12,40.0,40.0,20.0,Middle-Over Specialist
+21784,Pace,Right-arm Fast,438,192,90,156,43.8,20.5,35.6,Powerplay Bowler
+21786,Pace,Right-arm Fast,27,18,0,9,66.7,0.0,33.3,Powerplay Bowler
+22134,Pace,Right-arm medium,330,30,162,138,9.1,49.1,41.8,Death-Over Specialist
+22137,Pace,Right-arm medium,134,42,72,20,31.3,53.7,14.9,Middle-Over Specialist
+22187,Pace,Right-arm medium-fast,24,0,24,0,0.0,100.0,0.0,Middle-Over Specialist
+22188,Spin,Right-arm offbreak,140,90,36,14,64.3,25.7,10.0,Spin Bowler
+22471,Spin,Slow left-arm orthodox,305,126,150,29,41.3,49.2,9.5,Spin Bowler
+22565,Pace,Right-arm medium-fast,17,0,6,11,0.0,35.3,64.7,Death-Over Specialist
+22920,Pace,Right-arm fast-medium,877,516,150,211,58.8,17.1,24.1,Powerplay Bowler
+23311,Spin,Slow left-arm orthodox,87,0,72,15,0.0,82.8,17.2,Spin Bowler
+23467,Pace,Left-arm medium-fast,241,66,102,73,27.4,42.3,30.3,Middle-Over Specialist
+24017,Spin,Right-arm offbreak,132,48,84,0,36.4,63.6,0.0,Spin Bowler
+24346,Pace,Right-arm medium,63,36,6,21,57.1,9.5,33.3,Powerplay Bowler
+24372,Pace,Right-arm medium,90,66,6,18,73.3,6.7,20.0,Powerplay Bowler
+24381,Spin,Right-arm Leg-Break,36,0,36,0,0.0,100.0,0.0,Spin Bowler
+24473,Pace,Right-arm Fast,95,60,6,29,63.2,6.3,30.5,Powerplay Bowler
+24475,Spin,Right-arm Leg-Break,210,0,192,18,0.0,91.4,8.6,Spin Bowler
+24767,Pace,Right-arm Fast,234,126,12,96,53.8,5.1,41.0,Death-Over Specialist
+24779,Pace,Right-arm medium,6,0,0,6,0.0,0.0,100.0,Death-Over Specialist
+24812,Spin,Right-arm Leg-Break,54,0,54,0,0.0,100.0,0.0,Spin Bowler
+24887,Pace,Right-arm medium,6,0,6,0,0.0,100.0,0.0,Middle-Over Specialist
+24978,Pace,Right-arm medium,22,6,16,0,27.3,72.7,0.0,Middle-Over Specialist
+25011,Pace,Right-arm medium-fast,66,18,36,12,27.3,54.5,18.2,Middle-Over Specialist
+25030,Pace,Right-arm Fast,231,132,30,69,57.1,13.0,29.9,Powerplay Bowler
+25048,Pace,Right-arm medium,560,42,421,97,7.5,75.2,17.3,Middle-Over Specialist
+25128,Spin,Right-arm Leg-Break,162,6,132,24,3.7,81.5,14.8,Spin Bowler
+25132,Pace,Right-arm medium-fast,156,66,36,54,42.3,23.1,34.6,Powerplay Bowler
+25138,Spin,Slow left-arm orthodox,264,72,162,30,27.3,61.4,11.4,Spin Bowler
+25213,Spin,Right-arm Leg-Break,3,0,0,3,0.0,0.0,100.0,Spin Bowler
+25216,Pace,Right-arm Fast,108,30,54,24,27.8,50.0,22.2,Middle-Over Specialist
+25231,Spin,Right-arm Leg-Break,150,0,138,12,0.0,92.0,8.0,Spin Bowler
+25341,Spin,Slow left-arm orthodox,66,6,54,6,9.1,81.8,9.1,Spin Bowler
+25502,Spin,Right-arm Leg-Break,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+25507,Pace,Right-arm medium,18,0,12,6,0.0,66.7,33.3,Middle-Over Specialist
+25809,Pace,Right-arm medium,60,18,30,12,30.0,50.0,20.0,Middle-Over Specialist
+26514,Spin,Slow left-arm orthodox,96,42,48,6,43.8,50.0,6.2,Spin Bowler
+26519,Pace,Right-arm fast-medium,8,0,4,4,0.0,50.0,50.0,Death-Over Specialist
+26530,Spin,Right-arm offbreak,72,54,12,6,75.0,16.7,8.3,Spin Bowler
+26663,Pace,Left-arm Fast,305,108,132,65,35.4,43.3,21.3,Middle-Over Specialist
+26795,Spin,Slow left-arm orthodox,48,6,36,6,12.5,75.0,12.5,Spin Bowler
+26830,Spin,Slow left-arm orthodox,36,12,24,0,33.3,66.7,0.0,Spin Bowler
+26834,Pace,Right-arm medium-fast,24,0,18,6,0.0,75.0,25.0,Middle-Over Specialist
+26843,Spin,Slow left-arm orthodox,72,18,48,6,25.0,66.7,8.3,Spin Bowler
+26854,Spin,Right-arm offbreak,120,36,66,18,30.0,55.0,15.0,Spin Bowler
+26916,Spin,Right-arm Leg-Break,48,0,48,0,0.0,100.0,0.0,Spin Bowler
+26988,Pace,Left-arm medium-fast,48,6,24,18,12.5,50.0,37.5,Middle-Over Specialist
+27004,Pace,Right-arm medium,42,6,24,12,14.3,57.1,28.6,Middle-Over Specialist
+27059,Spin,Right-arm offbreak,6,6,0,0,100.0,0.0,0.0,Spin Bowler
+27259,Spin,Right-arm offbreak,18,6,12,0,33.3,66.7,0.0,Spin Bowler
+27364,Spin,Slow left-arm orthodox,51,3,42,6,5.9,82.4,11.8,Spin Bowler
+27373,Spin,Right-arm Leg-Break,96,6,84,6,6.2,87.5,6.2,Spin Bowler
+27380,Spin,Slow left-arm orthodox,66,0,48,18,0.0,72.7,27.3,Spin Bowler
+27390,Pace,Right-arm medium-fast,60,24,18,18,40.0,30.0,30.0,Middle-Over Specialist
+27391,Spin,Right-arm offbreak,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+27460,Pace,Right-arm medium,36,12,6,18,33.3,16.7,50.0,Death-Over Specialist
+27464,Spin,Slow left-arm orthodox,144,60,78,6,41.7,54.2,4.2,Spin Bowler
+27465,Spin,Slow left-arm orthodox,24,12,12,0,50.0,50.0,0.0,Spin Bowler
+27466,Spin,Right-arm offbreak,210,78,132,0,37.1,62.9,0.0,Spin Bowler
+27504,Spin,Right-arm Leg-Break,188,0,140,48,0.0,74.5,25.5,Spin Bowler
+27516,Pace,Right-arm Fast,89,30,42,17,33.7,47.2,19.1,Middle-Over Specialist
+27743,Spin,Slow left-arm orthodox,192,42,114,36,21.9,59.4,18.8,Spin Bowler
+27956,Spin,Right-arm Leg-Break,36,0,24,12,0.0,66.7,33.3,Spin Bowler
+27959,Spin,Right-arm offbreak,204,54,144,6,26.5,70.6,2.9,Spin Bowler
+27960,Pace,Right-arm Fast,493,186,204,103,37.7,41.4,20.9,Middle-Over Specialist
+27964,Pace,Right-arm medium-fast,545,324,78,143,59.4,14.3,26.2,Powerplay Bowler
+27970,Pace,Right-arm medium,18,12,6,0,66.7,33.3,0.0,Powerplay Bowler
+28018,Pace,Right-arm medium,174,36,78,60,20.7,44.8,34.5,Middle-Over Specialist
+28021,Pace,Left-arm medium-fast,77,52,0,25,67.5,0.0,32.5,Powerplay Bowler
+28655,Pace,Left-arm Fast,178,126,12,40,70.8,6.7,22.5,Powerplay Bowler
+28664,Pace,Right-arm medium,12,12,0,0,100.0,0.0,0.0,Powerplay Bowler
+28756,Spin,Slow left-arm orthodox,270,108,138,24,40.0,51.1,8.9,Spin Bowler
+28908,Spin,Right-arm Leg-Break,19,0,19,0,0.0,100.0,0.0,Spin Bowler
+28911,Spin,Right-arm Leg-Break,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+28915,Pace,Right-arm medium,150,60,54,36,40.0,36.0,24.0,Middle-Over Specialist
+29066,Pace,Right-arm medium,364,168,108,88,46.2,29.7,24.2,Powerplay Bowler
+29075,Pace,Right-arm medium,36,0,30,6,0.0,83.3,16.7,Middle-Over Specialist
+29080,Pace,Right-arm Fast,96,6,54,36,6.2,56.2,37.5,Middle-Over Specialist
+29558,Pace,Right-arm medium,102,18,48,36,17.6,47.1,35.3,Middle-Over Specialist
+29699,Spin,Right-arm offbreak,12,12,0,0,100.0,0.0,0.0,Spin Bowler
+29833,Pace,Left-arm Fast,18,12,0,6,66.7,0.0,33.3,Powerplay Bowler
+29888,Pace,Right-arm medium-fast,901,432,252,217,47.9,28.0,24.1,Powerplay Bowler
+30925,Pace,Left-arm fast-medium,108,66,24,18,61.1,22.2,16.7,Powerplay Bowler
+31107,Pace,Slow left-arm orthodox,72,36,36,0,50.0,50.0,0.0,Powerplay Bowler
+31227,Pace,Right-arm medium-fast,24,18,6,0,75.0,25.0,0.0,Powerplay Bowler
+31513,Spin,Right-arm offbreak,24,0,24,0,0.0,100.0,0.0,Spin Bowler
+31835,Spin,Right-arm offbreak,60,6,54,0,10.0,90.0,0.0,Spin Bowler
+32244,Spin,Right-arm offbreak,12,6,6,0,50.0,50.0,0.0,Spin Bowler
+32401,Pace,Right-arm medium-fast,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+32705,Pace,Left-arm Fast,75,30,24,21,40.0,32.0,28.0,Middle-Over Specialist
+32862,Spin,Right-arm offbreak,461,228,174,59,49.5,37.7,12.8,Spin Bowler
+33009,Pace,Right-arm fast-medium,36,24,6,6,66.7,16.7,16.7,Powerplay Bowler
+33114,Pace,Right-arm Fast,78,54,12,12,69.2,15.4,15.4,Powerplay Bowler
+33440,Pace,Right-arm medium,12,12,0,0,100.0,0.0,0.0,Powerplay Bowler
+33443,Pace,Left-arm Fast,48,42,6,0,87.5,12.5,0.0,Powerplay Bowler
+33969,Pace,Right-arm medium,176,78,78,20,44.3,44.3,11.4,Powerplay Bowler
+34466,Spin,Slow left-arm orthodox,132,42,78,12,31.8,59.1,9.1,Spin Bowler
+34485,Spin,Left-arm Chinaman,518,0,448,70,0.0,86.5,13.5,Spin Bowler
+34522,Pace,Right-arm medium,48,48,0,0,100.0,0.0,0.0,Powerplay Bowler
+34527,Pace,Right-arm medium,6,0,6,0,0.0,100.0,0.0,Middle-Over Specialist
+34546,Spin,Right-arm offbreak,23,0,12,11,0.0,52.2,47.8,Spin Bowler
+34880,Spin,Right-arm Leg-Break,90,18,66,6,20.0,73.3,6.7,Spin Bowler
+34969,Spin,Slow left-arm orthodox,48,12,18,18,25.0,37.5,37.5,Spin Bowler
+35072,Pace,Right-arm medium-fast,18,0,18,0,0.0,100.0,0.0,Middle-Over Specialist
+35102,Spin,Right-arm offbreak,30,0,30,0,0.0,100.0,0.0,Spin Bowler
+35120,Spin,Right-arm Leg-Break,6,0,0,6,0.0,0.0,100.0,Spin Bowler
+35122,Pace,Left-arm medium,72,36,0,36,50.0,0.0,50.0,Death-Over Specialist
+35318,Pace,Right-arm medium-fast,252,60,114,78,23.8,45.2,31.0,Middle-Over Specialist
+36551,Spin,Right-arm Leg-Break,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+36553,Pace,Left-arm Fast,119,48,36,35,40.3,30.3,29.4,Middle-Over Specialist
+36981,Spin,Right-arm Leg-Break,30,0,30,0,0.0,100.0,0.0,Spin Bowler
+36982,Spin,Right-arm Leg-Break,900,37,762,101,4.1,84.7,11.2,Spin Bowler
+36983,Spin,Right-arm Leg-Break,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+36984,Spin,Left-arm Chinaman,24,0,24,0,0.0,100.0,0.0,Spin Bowler
+37052,Spin,Right-arm offbreak,162,6,120,36,3.7,74.1,22.2,Spin Bowler
+37572,Pace,Right-arm medium-fast,72,36,6,30,50.0,8.3,41.7,Death-Over Specialist
+37731,Spin,Slow left-arm orthodox,12,0,12,0,0.0,100.0,0.0,Spin Bowler
+37939,Pace,Right-arm Fast,93,30,33,30,32.3,35.5,32.3,Middle-Over Specialist
+38044,Pace,Right-arm fast-medium,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+38050,Pace,Right-arm medium-fast,30,24,0,6,80.0,0.0,20.0,Powerplay Bowler
+38855,Pace,Right-arm medium-fast,442,150,108,184,33.9,24.4,41.6,Death-Over Specialist
+39444,Spin,Right-arm offbreak,30,6,24,0,20.0,80.0,0.0,Spin Bowler
+39637,Pace,Right-arm medium,78,6,30,42,7.7,38.5,53.8,Death-Over Specialist
+39638,Spin,Right-arm Leg-Break,6,0,6,0,0.0,100.0,0.0,Spin Bowler
+39657,Pace,Right-arm fast-medium,922,294,331,297,31.9,35.9,32.2,Middle-Over Specialist
+39991,Spin,Slow left-arm orthodox,48,6,42,0,12.5,87.5,0.0,Spin Bowler
+41503,Spin,Right-arm Leg-Break,180,6,156,18,3.3,86.7,10.0,Spin Bowler
+42548,Pace,Left-arm medium-fast,271,68,101,102,25.1,37.3,37.6,Middle-Over Specialist
+43917,Pace,Right-arm medium,36,18,0,18,50.0,0.0,50.0,Death-Over Specialist
+45381,Pace,Right-arm medium,24,6,6,12,25.0,25.0,50.0,Death-Over Specialist
+45457,Spin,Right-arm offbreak,70,6,54,10,8.6,77.1,14.3,Spin Bowler
+45966,Spin,Slow left-arm orthodox,12,6,6,0,50.0,50.0,0.0,Spin Bowler
+46066,Spin,Right-arm Leg-Break,288,54,198,36,18.8,68.8,12.5,Spin Bowler
+46378,Pace,Right-arm medium,163,102,37,24,62.6,22.7,14.7,Powerplay Bowler
+46929,Pace,Right-arm medium,6,0,6,0,0.0,100.0,0.0,Middle-Over Specialist
+46982,Pace,Right-arm medium,78,42,6,30,53.8,7.7,38.5,Death-Over Specialist
+47017,Pace,Left-arm Fast,63,36,0,27,57.1,0.0,42.9,Death-Over Specialist
+47050,Pace,Right-arm Fast,471,180,132,159,38.2,28.0,33.8,Middle-Over Specialist
+47371,Spin,Right-arm Leg-Break,18,0,12,6,0.0,66.7,33.3,Spin Bowler
+47403,Pace,Left-arm medium-fast,83,48,18,17,57.8,21.7,20.5,Powerplay Bowler
+47542,Spin,Slow left-arm orthodox,12,12,0,0,100.0,0.0,0.0,Spin Bowler
+47694,Pace,Right-arm Fast,60,36,6,18,60.0,10.0,30.0,Powerplay Bowler
+47724,Pace,Left-arm medium-fast,108,78,19,11,72.2,17.6,10.2,Powerplay Bowler
+48278,Pace,Right-arm medium-fast,72,48,6,18,66.7,8.3,25.0,Powerplay Bowler
+48557,Spin,Left-arm Chinaman,72,0,60,12,0.0,83.3,16.7,Spin Bowler
+48616,Pace,Right-arm Fast,182,24,108,50,13.2,59.3,27.5,Middle-Over Specialist
+50062,Pace,Right-arm fast-medium,63,24,27,12,38.1,42.9,19.0,Middle-Over Specialist
+52338,Spin,Right-arm offbreak,64,0,54,10,0.0,84.4,15.6,Spin Bowler
+54404,Spin,Right-arm offbreak,6,6,0,0,100.0,0.0,0.0,Spin Bowler
+56685,Pace,Right-arm medium-fast,223,12,153,58,5.4,68.6,26.0,Middle-Over Specialist
+56817,Spin,Left-arm Chinaman,234,6,216,12,2.6,92.3,5.1,Spin Bowler
+56830,Pace,Right-arm medium-fast,66,0,54,12,0.0,81.8,18.2,Middle-Over Specialist
+57747,Pace,Right-arm medium,6,6,0,0,100.0,0.0,0.0,Powerplay Bowler
+58134,Spin,Right-arm Leg-Break,546,138,324,84,25.3,59.3,15.4,Spin Bowler
+58246,Pace,Right-arm Fast,710,229,272,209,32.3,38.3,29.4,Middle-Over Specialist
+58727,Pace,Right-arm medium-fast,58,24,24,10,41.4,41.4,17.2,Middle-Over Specialist
+59045,Pace,Left-arm medium-fast,48,30,0,18,62.5,0.0,37.5,Powerplay Bowler
+60609,Spin,Right-arm Leg-Break,48,0,42,6,0.0,87.5,12.5,Spin Bowler
+67036,Pace,Right-arm Fast,273,72,108,93,26.4,39.6,34.1,Middle-Over Specialist
+67864,Pace,Right-arm medium,48,18,24,6,37.5,50.0,12.5,Middle-Over Specialist
+69806,Pace,Right-arm Fast,18,12,0,6,66.7,0.0,33.3,Powerplay Bowler
+71727,Pace,Right-arm medium,37,18,12,7,48.6,32.4,18.9,Powerplay Bowler

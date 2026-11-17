@@ -1,0 +1,945 @@
+{
+  "kpis": {
+    "total_deliveries": 200999,
+    "legal_deliveries": 192445,
+    "hp_deliveries": 55011,
+    "hp_pct": 27.37,
+    "med_deliveries": 84112,
+    "low_deliveries": 61876,
+    "total_matches": 867,
+    "total_competitions": 138,
+    "unique_batters": 888,
+    "unique_bowlers": 647,
+    "unique_players": 958,
+    "qualified_batters": 122,
+    "qualified_bowlers": 111,
+    "ipl_deliveries": 87687,
+    "t20i_deliveries": 106327,
+    "other_t20_deliveries": 6985,
+    "ipl_matches": 367,
+    "t20i_matches": 470,
+    "other_t20_matches": 30
+  },
+  "cpi_hist": [
+    {
+      "bin_start": 0.0,
+      "bin_end": 0.04,
+      "bin_mid": 0.02,
+      "count": 1296
+    },
+    {
+      "bin_start": 0.04,
+      "bin_end": 0.08,
+      "bin_mid": 0.06,
+      "count": 331
+    },
+    {
+      "bin_start": 0.08,
+      "bin_end": 0.12,
+      "bin_mid": 0.1,
+      "count": 788
+    },
+    {
+      "bin_start": 0.12,
+      "bin_end": 0.16,
+      "bin_mid": 0.14,
+      "count": 1926
+    },
+    {
+      "bin_start": 0.16,
+      "bin_end": 0.2,
+      "bin_mid": 0.18,
+      "count": 3474
+    },
+    {
+      "bin_start": 0.2,
+      "bin_end": 0.24,
+      "bin_mid": 0.22,
+      "count": 5259
+    },
+    {
+      "bin_start": 0.24,
+      "bin_end": 0.28,
+      "bin_mid": 0.26,
+      "count": 15730
+    },
+    {
+      "bin_start": 0.28,
+      "bin_end": 0.32,
+      "bin_mid": 0.3,
+      "count": 18916
+    },
+    {
+      "bin_start": 0.32,
+      "bin_end": 0.36,
+      "bin_mid": 0.34,
+      "count": 18571
+    },
+    {
+      "bin_start": 0.36,
+      "bin_end": 0.4,
+      "bin_mid": 0.38,
+      "count": 17595
+    },
+    {
+      "bin_start": 0.4,
+      "bin_end": 0.44,
+      "bin_mid": 0.42,
+      "count": 14379
+    },
+    {
+      "bin_start": 0.44,
+      "bin_end": 0.48,
+      "bin_mid": 0.46,
+      "count": 14773
+    },
+    {
+      "bin_start": 0.48,
+      "bin_end": 0.52,
+      "bin_mid": 0.5,
+      "count": 12907
+    },
+    {
+      "bin_start": 0.52,
+      "bin_end": 0.56,
+      "bin_mid": 0.54,
+      "count": 11254
+    },
+    {
+      "bin_start": 0.56,
+      "bin_end": 0.6,
+      "bin_mid": 0.58,
+      "count": 8789
+    },
+    {
+      "bin_start": 0.6,
+      "bin_end": 0.64,
+      "bin_mid": 0.62,
+      "count": 9613
+    },
+    {
+      "bin_start": 0.64,
+      "bin_end": 0.68,
+      "bin_mid": 0.66,
+      "count": 8682
+    },
+    {
+      "bin_start": 0.68,
+      "bin_end": 0.72,
+      "bin_mid": 0.7,
+      "count": 8689
+    },
+    {
+      "bin_start": 0.72,
+      "bin_end": 0.76,
+      "bin_mid": 0.74,
+      "count": 7830
+    },
+    {
+      "bin_start": 0.76,
+      "bin_end": 0.8,
+      "bin_mid": 0.78,
+      "count": 5728
+    },
+    {
+      "bin_start": 0.8,
+      "bin_end": 0.84,
+      "bin_mid": 0.82,
+      "count": 4408
+    },
+    {
+      "bin_start": 0.84,
+      "bin_end": 0.88,
+      "bin_mid": 0.86,
+      "count": 2585
+    },
+    {
+      "bin_start": 0.88,
+      "bin_end": 0.92,
+      "bin_mid": 0.9,
+      "count": 1808
+    },
+    {
+      "bin_start": 0.92,
+      "bin_end": 0.96,
+      "bin_mid": 0.94,
+      "count": 1778
+    },
+    {
+      "bin_start": 0.96,
+      "bin_end": 1.0,
+      "bin_mid": 0.98,
+      "count": 3890
+    }
+  ],
+  "by_over_innings": [
+    {
+      "innings": 1,
+      "overid": 1,
+      "deliveries": 5484,
+      "mean_cpi": 0.2725,
+      "hp_pct": 0.0,
+      "avg_runs": 1.0848,
+      "wkt_pct": 3.264
+    },
+    {
+      "innings": 1,
+      "overid": 2,
+      "deliveries": 5457,
+      "mean_cpi": 0.2907,
+      "hp_pct": 0.0,
+      "avg_runs": 1.2817,
+      "wkt_pct": 4.1964
+    },
+    {
+      "innings": 1,
+      "overid": 3,
+      "deliveries": 5383,
+      "mean_cpi": 0.3132,
+      "hp_pct": 0.0,
+      "avg_runs": 1.4367,
+      "wkt_pct": 4.9601
+    },
+    {
+      "innings": 1,
+      "overid": 4,
+      "deliveries": 5376,
+      "mean_cpi": 0.3375,
+      "hp_pct": 0.0,
+      "avg_runs": 1.4453,
+      "wkt_pct": 4.5387
+    },
+    {
+      "innings": 1,
+      "overid": 5,
+      "deliveries": 5350,
+      "mean_cpi": 0.3621,
+      "hp_pct": 0.0374,
+      "avg_runs": 1.5004,
+      "wkt_pct": 4.7477
+    },
+    {
+      "innings": 1,
+      "overid": 6,
+      "deliveries": 5327,
+      "mean_cpi": 0.3876,
+      "hp_pct": 0.3379,
+      "avg_runs": 1.4975,
+      "wkt_pct": 4.1674
+    },
+    {
+      "innings": 1,
+      "overid": 7,
+      "deliveries": 5279,
+      "mean_cpi": 0.4036,
+      "hp_pct": 0.2463,
+      "avg_runs": 1.2086,
+      "wkt_pct": 3.656
+    },
+    {
+      "innings": 1,
+      "overid": 8,
+      "deliveries": 5304,
+      "mean_cpi": 0.4258,
+      "hp_pct": 0.5656,
+      "avg_runs": 1.2873,
+      "wkt_pct": 3.9781
+    },
+    {
+      "innings": 1,
+      "overid": 9,
+      "deliveries": 5278,
+      "mean_cpi": 0.4498,
+      "hp_pct": 5.3429,
+      "avg_runs": 1.3132,
+      "wkt_pct": 4.1872
+    },
+    {
+      "innings": 1,
+      "overid": 10,
+      "deliveries": 5293,
+      "mean_cpi": 0.4736,
+      "hp_pct": 8.5396,
+      "avg_runs": 1.3342,
+      "wkt_pct": 4.0809
+    },
+    {
+      "innings": 1,
+      "overid": 11,
+      "deliveries": 5295,
+      "mean_cpi": 0.498,
+      "hp_pct": 11.5203,
+      "avg_runs": 1.353,
+      "wkt_pct": 4.5326
+    },
+    {
+      "innings": 1,
+      "overid": 12,
+      "deliveries": 5266,
+      "mean_cpi": 0.5245,
+      "hp_pct": 16.9768,
+      "avg_runs": 1.3621,
+      "wkt_pct": 4.5385
+    },
+    {
+      "innings": 1,
+      "overid": 13,
+      "deliveries": 5267,
+      "mean_cpi": 0.5426,
+      "hp_pct": 22.2707,
+      "avg_runs": 1.3932,
+      "wkt_pct": 4.9364
+    },
+    {
+      "innings": 1,
+      "overid": 14,
+      "deliveries": 5227,
+      "mean_cpi": 0.5675,
+      "hp_pct": 28.0275,
+      "avg_runs": 1.3748,
+      "wkt_pct": 5.3951
+    },
+    {
+      "innings": 1,
+      "overid": 15,
+      "deliveries": 5182,
+      "mean_cpi": 0.5935,
+      "hp_pct": 42.995,
+      "avg_runs": 1.4386,
+      "wkt_pct": 5.7121
+    },
+    {
+      "innings": 1,
+      "overid": 16,
+      "deliveries": 5239,
+      "mean_cpi": 0.6742,
+      "hp_pct": 85.7034,
+      "avg_runs": 1.4925,
+      "wkt_pct": 4.8673
+    },
+    {
+      "innings": 1,
+      "overid": 17,
+      "deliveries": 5269,
+      "mean_cpi": 0.6962,
+      "hp_pct": 91.6303,
+      "avg_runs": 1.5853,
+      "wkt_pct": 5.8076
+    },
+    {
+      "innings": 1,
+      "overid": 18,
+      "deliveries": 5224,
+      "mean_cpi": 0.7199,
+      "hp_pct": 97.7603,
+      "avg_runs": 1.6202,
+      "wkt_pct": 6.8913
+    },
+    {
+      "innings": 1,
+      "overid": 19,
+      "deliveries": 5222,
+      "mean_cpi": 0.745,
+      "hp_pct": 98.8893,
+      "avg_runs": 1.6859,
+      "wkt_pct": 9.4983
+    },
+    {
+      "innings": 1,
+      "overid": 20,
+      "deliveries": 5005,
+      "mean_cpi": 0.77,
+      "hp_pct": 99.4805,
+      "avg_runs": 1.8703,
+      "wkt_pct": 13.2867
+    },
+    {
+      "innings": 2,
+      "overid": 1,
+      "deliveries": 5296,
+      "mean_cpi": 0.298,
+      "hp_pct": 0.3021,
+      "avg_runs": 1.1562,
+      "wkt_pct": 4.324
+    },
+    {
+      "innings": 2,
+      "overid": 2,
+      "deliveries": 5331,
+      "mean_cpi": 0.2958,
+      "hp_pct": 0.4314,
+      "avg_runs": 1.315,
+      "wkt_pct": 4.6896
+    },
+    {
+      "innings": 2,
+      "overid": 3,
+      "deliveries": 5262,
+      "mean_cpi": 0.308,
+      "hp_pct": 0.5131,
+      "avg_runs": 1.4812,
+      "wkt_pct": 4.542
+    },
+    {
+      "innings": 2,
+      "overid": 4,
+      "deliveries": 5262,
+      "mean_cpi": 0.319,
+      "hp_pct": 1.1593,
+      "avg_runs": 1.4821,
+      "wkt_pct": 4.561
+    },
+    {
+      "innings": 2,
+      "overid": 5,
+      "deliveries": 5265,
+      "mean_cpi": 0.3332,
+      "hp_pct": 1.9183,
+      "avg_runs": 1.5064,
+      "wkt_pct": 5.1662
+    },
+    {
+      "innings": 2,
+      "overid": 6,
+      "deliveries": 5215,
+      "mean_cpi": 0.3484,
+      "hp_pct": 2.9338,
+      "avg_runs": 1.4874,
+      "wkt_pct": 4.6405
+    },
+    {
+      "innings": 2,
+      "overid": 7,
+      "deliveries": 5162,
+      "mean_cpi": 0.3671,
+      "hp_pct": 5.1918,
+      "avg_runs": 1.2387,
+      "wkt_pct": 4.0101
+    },
+    {
+      "innings": 2,
+      "overid": 8,
+      "deliveries": 5172,
+      "mean_cpi": 0.3894,
+      "hp_pct": 8.9907,
+      "avg_runs": 1.2778,
+      "wkt_pct": 4.273
+    },
+    {
+      "innings": 2,
+      "overid": 9,
+      "deliveries": 5137,
+      "mean_cpi": 0.4119,
+      "hp_pct": 12.225,
+      "avg_runs": 1.3414,
+      "wkt_pct": 4.3605
+    },
+    {
+      "innings": 2,
+      "overid": 10,
+      "deliveries": 5103,
+      "mean_cpi": 0.4342,
+      "hp_pct": 17.3623,
+      "avg_runs": 1.3182,
+      "wkt_pct": 4.5267
+    },
+    {
+      "innings": 2,
+      "overid": 11,
+      "deliveries": 5024,
+      "mean_cpi": 0.4631,
+      "hp_pct": 23.8854,
+      "avg_runs": 1.3167,
+      "wkt_pct": 5.0557
+    },
+    {
+      "innings": 2,
+      "overid": 12,
+      "deliveries": 4988,
+      "mean_cpi": 0.4881,
+      "hp_pct": 30.413,
+      "avg_runs": 1.3687,
+      "wkt_pct": 5.0521
+    },
+    {
+      "innings": 2,
+      "overid": 13,
+      "deliveries": 4928,
+      "mean_cpi": 0.5133,
+      "hp_pct": 35.8766,
+      "avg_runs": 1.3683,
+      "wkt_pct": 5.8036
+    },
+    {
+      "innings": 2,
+      "overid": 14,
+      "deliveries": 4861,
+      "mean_cpi": 0.5423,
+      "hp_pct": 42.3781,
+      "avg_runs": 1.4474,
+      "wkt_pct": 5.1224
+    },
+    {
+      "innings": 2,
+      "overid": 15,
+      "deliveries": 4733,
+      "mean_cpi": 0.572,
+      "hp_pct": 47.94,
+      "avg_runs": 1.4361,
+      "wkt_pct": 6.6131
+    },
+    {
+      "innings": 2,
+      "overid": 16,
+      "deliveries": 4585,
+      "mean_cpi": 0.6057,
+      "hp_pct": 54.0458,
+      "avg_runs": 1.4499,
+      "wkt_pct": 7.1538
+    },
+    {
+      "innings": 2,
+      "overid": 17,
+      "deliveries": 4297,
+      "mean_cpi": 0.6436,
+      "hp_pct": 58.8085,
+      "avg_runs": 1.4615,
+      "wkt_pct": 7.2376
+    },
+    {
+      "innings": 2,
+      "overid": 18,
+      "deliveries": 3936,
+      "mean_cpi": 0.6813,
+      "hp_pct": 62.6778,
+      "avg_runs": 1.5755,
+      "wkt_pct": 7.8506
+    },
+    {
+      "innings": 2,
+      "overid": 19,
+      "deliveries": 3372,
+      "mean_cpi": 0.742,
+      "hp_pct": 70.4033,
+      "avg_runs": 1.583,
+      "wkt_pct": 8.5409
+    },
+    {
+      "innings": 2,
+      "overid": 20,
+      "deliveries": 2305,
+      "mean_cpi": 0.8668,
+      "hp_pct": 84.5987,
+      "avg_runs": 1.698,
+      "wkt_pct": 13.0152
+    }
+  ],
+  "by_format_phase": [
+    {
+      "comp_category": "IPL",
+      "innings_phase": "Death",
+      "deliveries": 20042,
+      "mean_cpi": 0.6996,
+      "hp_pct": 80.0718,
+      "hp_count": 16048
+    },
+    {
+      "comp_category": "IPL",
+      "innings_phase": "Middle",
+      "deliveries": 40292,
+      "mean_cpi": 0.4798,
+      "hp_pct": 18.3883,
+      "hp_count": 7409
+    },
+    {
+      "comp_category": "IPL",
+      "innings_phase": "Powerplay",
+      "deliveries": 27353,
+      "mean_cpi": 0.329,
+      "hp_pct": 0.7129,
+      "hp_count": 195
+    },
+    {
+      "comp_category": "International T20I",
+      "innings_phase": "Death",
+      "deliveries": 22885,
+      "mean_cpi": 0.7116,
+      "hp_pct": 83.1156,
+      "hp_count": 19021
+    },
+    {
+      "comp_category": "International T20I",
+      "innings_phase": "Middle",
+      "deliveries": 48997,
+      "mean_cpi": 0.4808,
+      "hp_pct": 20.6645,
+      "hp_count": 10125
+    },
+    {
+      "comp_category": "International T20I",
+      "innings_phase": "Powerplay",
+      "deliveries": 34445,
+      "mean_cpi": 0.3176,
+      "hp_pct": 0.5952,
+      "hp_count": 205
+    },
+    {
+      "comp_category": "Other T20",
+      "innings_phase": "Death",
+      "deliveries": 1527,
+      "mean_cpi": 0.7352,
+      "hp_pct": 84.8068,
+      "hp_count": 1295
+    },
+    {
+      "comp_category": "Other T20",
+      "innings_phase": "Middle",
+      "deliveries": 3210,
+      "mean_cpi": 0.4833,
+      "hp_pct": 20.9969,
+      "hp_count": 674
+    },
+    {
+      "comp_category": "Other T20",
+      "innings_phase": "Powerplay",
+      "deliveries": 2248,
+      "mean_cpi": 0.3159,
+      "hp_pct": 1.7349,
+      "hp_count": 39
+    }
+  ],
+  "by_format": [
+    {
+      "comp_category": "IPL",
+      "deliveries": 87687,
+      "matches": 367,
+      "competitions": 5,
+      "mean_cpi": 0.483,
+      "hp_count": 23652,
+      "hp_pct": 26.9732
+    },
+    {
+      "comp_category": "International T20I",
+      "deliveries": 106327,
+      "matches": 470,
+      "competitions": 131,
+      "mean_cpi": 0.4776,
+      "hp_count": 29351,
+      "hp_pct": 27.6045
+    },
+    {
+      "comp_category": "Other T20",
+      "deliveries": 6985,
+      "matches": 30,
+      "competitions": 2,
+      "mean_cpi": 0.4845,
+      "hp_count": 2008,
+      "hp_pct": 28.7473
+    }
+  ],
+  "by_season_format": [
+    {
+      "season": "2022",
+      "comp_category": "IPL",
+      "deliveries": 17909
+    },
+    {
+      "season": "2022",
+      "comp_category": "International T20I",
+      "deliveries": 21718
+    },
+    {
+      "season": "2022/23",
+      "comp_category": "International T20I",
+      "deliveries": 2838
+    },
+    {
+      "season": "2023",
+      "comp_category": "IPL",
+      "deliveries": 17863
+    },
+    {
+      "season": "2023",
+      "comp_category": "International T20I",
+      "deliveries": 14386
+    },
+    {
+      "season": "2023/24",
+      "comp_category": "International T20I",
+      "deliveries": 739
+    },
+    {
+      "season": "2024",
+      "comp_category": "IPL",
+      "deliveries": 17103
+    },
+    {
+      "season": "2024",
+      "comp_category": "International T20I",
+      "deliveries": 23672
+    },
+    {
+      "season": "2024",
+      "comp_category": "Other T20",
+      "deliveries": 3519
+    },
+    {
+      "season": "2024/25",
+      "comp_category": "International T20I",
+      "deliveries": 754
+    },
+    {
+      "season": "2025",
+      "comp_category": "IPL",
+      "deliveries": 17285
+    },
+    {
+      "season": "2025",
+      "comp_category": "International T20I",
+      "deliveries": 26661
+    },
+    {
+      "season": "2025",
+      "comp_category": "Other T20",
+      "deliveries": 3466
+    },
+    {
+      "season": "2026",
+      "comp_category": "IPL",
+      "deliveries": 17527
+    },
+    {
+      "season": "2026",
+      "comp_category": "International T20I",
+      "deliveries": 15559
+    }
+  ],
+  "chase_heatmap": [
+    {
+      "rrr_bucket": "<6",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 163,
+      "mean_cpi": 0.3393,
+      "hp_pct": 2.454
+    },
+    {
+      "rrr_bucket": "<6",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 648,
+      "mean_cpi": 0.304,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "<6",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 2508,
+      "mean_cpi": 0.2668,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "<6",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 5301,
+      "mean_cpi": 0.2097,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "<6",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 4717,
+      "mean_cpi": 0.1536,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "6-8",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 46,
+      "mean_cpi": 0.6107,
+      "hp_pct": 56.5217
+    },
+    {
+      "rrr_bucket": "6-8",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 428,
+      "mean_cpi": 0.5436,
+      "hp_pct": 14.7196
+    },
+    {
+      "rrr_bucket": "6-8",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 1590,
+      "mean_cpi": 0.4294,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "6-8",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 5277,
+      "mean_cpi": 0.3329,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "6-8",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 8889,
+      "mean_cpi": 0.2493,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "8-10",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 112,
+      "mean_cpi": 0.7038,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "8-10",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 585,
+      "mean_cpi": 0.6117,
+      "hp_pct": 61.8803
+    },
+    {
+      "rrr_bucket": "8-10",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 2961,
+      "mean_cpi": 0.5151,
+      "hp_pct": 3.5123
+    },
+    {
+      "rrr_bucket": "8-10",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 7842,
+      "mean_cpi": 0.4121,
+      "hp_pct": 0.0128
+    },
+    {
+      "rrr_bucket": "8-10",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 12104,
+      "mean_cpi": 0.3099,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "10-12",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 190,
+      "mean_cpi": 0.7868,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "10-12",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 1296,
+      "mean_cpi": 0.6872,
+      "hp_pct": 99.1512
+    },
+    {
+      "rrr_bucket": "10-12",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 3876,
+      "mean_cpi": 0.6009,
+      "hp_pct": 50.2322
+    },
+    {
+      "rrr_bucket": "10-12",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 6891,
+      "mean_cpi": 0.4959,
+      "hp_pct": 2.2493
+    },
+    {
+      "rrr_bucket": "10-12",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 7314,
+      "mean_cpi": 0.3802,
+      "hp_pct": 0.0
+    },
+    {
+      "rrr_bucket": "12-15",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 489,
+      "mean_cpi": 0.8391,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "12-15",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 1738,
+      "mean_cpi": 0.7781,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "12-15",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 4141,
+      "mean_cpi": 0.7,
+      "hp_pct": 98.1164
+    },
+    {
+      "rrr_bucket": "12-15",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 3612,
+      "mean_cpi": 0.6034,
+      "hp_pct": 52.2425
+    },
+    {
+      "rrr_bucket": "12-15",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 1692,
+      "mean_cpi": 0.478,
+      "hp_pct": 3.1915
+    },
+    {
+      "rrr_bucket": "15+",
+      "wkt_grp": "1-2 Wkts",
+      "deliveries": 2930,
+      "mean_cpi": 0.9584,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "15+",
+      "wkt_grp": "3-4 Wkts",
+      "deliveries": 3684,
+      "mean_cpi": 0.9232,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "15+",
+      "wkt_grp": "5-6 Wkts",
+      "deliveries": 2922,
+      "mean_cpi": 0.8652,
+      "hp_pct": 100.0
+    },
+    {
+      "rrr_bucket": "15+",
+      "wkt_grp": "7-8 Wkts",
+      "deliveries": 804,
+      "mean_cpi": 0.7753,
+      "hp_pct": 99.3781
+    },
+    {
+      "rrr_bucket": "15+",
+      "wkt_grp": "9-10 Wkts",
+      "deliveries": 142,
+      "mean_cpi": 0.616,
+      "hp_pct": 57.0423
+    }
+  ],
+  "by_knockout": [
+    {
+      "is_knockout": false,
+      "deliveries": 193664,
+      "mean_cpi": 0.478,
+      "hp_count": 52369,
+      "hp_pct": 27.0412
+    },
+    {
+      "is_knockout": true,
+      "deliveries": 7335,
+      "mean_cpi": 0.5382,
+      "hp_count": 2642,
+      "hp_pct": 36.0191
+    }
+  ]
+}

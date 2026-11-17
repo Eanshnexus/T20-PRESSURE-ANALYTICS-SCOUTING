@@ -1,0 +1,21 @@
+Player ID,Player Name,Discipline,Primary_Rank,Strict_CPI_0.70_Rank,Broad_CPI_0.50_Rank,Rule_Model_A_Rank,Rank_Std_Dev,Stability_Class
+1699,Suryakumar Yadav,Batting,1,7,1,1,2.6,High
+20702,Tristan Stubbs,Batting,2,2,16,11,5.15,Moderate
+7897,Namboori Tilak Varma,Batting,3,4,5,3,0.71,High
+7260,Dhruv Jurel,Batting,4,36,55,58,12.3,Volatile
+4260,Heinrich Klaasen,Batting,5,14,3,17,5.7,Moderate
+37052,Naman Dhir,Batting,6,19,19,21,4.55,Moderate
+4703,Rishabh Pant,Batting,7,41,42,68,17.02,Volatile
+6396,Tim David,Batting,8,1,2,2,0.71,High
+8101,Ashutosh Sharma,Batting,9,23,29,15,5.48,Moderate
+6676,Azmatullah Omarzai,Batting,10,27,24,55,15.22,Volatile
+781,Sunil Narine,Bowling,1,5,2,3,1.22,High
+2933,Jasprit Bumrah,Bowling,2,1,1,2,0.43,High
+5979,Abrar Ahmed,Bowling,3,4,8,6,1.48,High
+6355,Shaheen Afridi,Bowling,4,8,16,14,3.57,Moderate
+2490,Mohammad Nawaz,Bowling,5,19,36,11,9.39,Volatile
+4101,Mitchell Santner,Bowling,6,13,15,9,2.38,High
+25048,Umran Malik,Bowling,7,33,141,76,45.3,Volatile
+8661,Matheesha Pathirana,Bowling,8,2,3,1,0.83,High
+2417,Akeal Hosein,Bowling,9,17,9,5,4.33,Moderate
+34485,Sufiyan Muqeem,Bowling,10,14,10,10,1.66,High

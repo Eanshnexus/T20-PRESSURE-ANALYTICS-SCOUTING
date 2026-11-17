@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA3D91"/>
+      <stop offset="100%" stop-color="#F4C542"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#211B36" stroke="url(#g1)" stroke-width="2.5"/>
+  <!-- Stumps -->
+  <line x1="22" y1="18" x2="22" y2="48" stroke="#F4C542" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="30" y1="18" x2="30" y2="48" stroke="#F4C542" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="18" x2="38" y2="48" stroke="#F4C542" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="20" y1="18" x2="40" y2="18" stroke="#EA3D91" stroke-width="2.8" stroke-linecap="round"/>
+  <!-- Cricket Ball with seam -->
+  <circle cx="44" cy="40" r="9.5" fill="#EA3D91" stroke="#F5F6FA" stroke-width="1.5"/>
+  <path d="M38.5 34.5 Q44 40 49.5 45.5" fill="none" stroke="#F5F6FA" stroke-width="1.4" stroke-dasharray="2,2"/>
+</svg>

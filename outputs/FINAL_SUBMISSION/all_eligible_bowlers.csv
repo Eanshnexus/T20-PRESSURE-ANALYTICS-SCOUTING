@@ -1,0 +1,112 @@
+Global_Rank,Player name,Player ID,Primary team/affiliation,IPL_Recruitment_Pool,Pressure legal balls,IPL HP balls,T20I HP balls,Other T20 HP balls,Pressure matches,Pressure economy,Dot-ball percentage,Wickets,Runs prevented above expectation,Wickets above expectation,Pressure impact score,Auction Rating (Exact),Auction Rating,Ranking stability
+1,Sunil Narine,781,Kolkata Knight Riders,True,376,376,0,0,40,5.78,42.8%,29,149.8,8.34,72.96,85.597,85.6,High
+2,Jasprit Bumrah,2933,Mumbai Indians,True,597,404,193,0,58,6.76,36.2%,47,230.9,5.21,70.68,81.714,81.7,High
+3,Abrar Ahmed,5979,Pakistan,False,276,0,276,0,27,5.09,48.6%,23,96.8,6.12,71.15,74.852,74.9,High
+4,Shaheen Afridi,6355,Pakistan,False,277,0,277,0,32,6.93,36.8%,28,73.1,5.92,68.62,70.266,70.3,Moderate
+5,Mohammad Nawaz,2490,Pakistan,False,175,0,175,0,19,5.35,43.4%,17,44.2,5.97,67.65,69.161,69.2,Volatile
+6,Mitchell Santner,4101,Chennai Super Kings,True,411,92,319,0,44,6.83,37.7%,27,58.6,2.16,52.57,66.55,66.6,High
+7,Umran Malik,25048,Sunrisers Hyderabad,True,170,98,72,0,17,7.24,45.9%,17,26.4,6.6,68.4,66.41,66.4,Volatile
+8,Matheesha Pathirana,8661,Chennai Super Kings,True,602,422,180,0,39,7.79,33.9%,49,129.7,7.66,59.25,66.089,66.1,High
+9,Akeal Hosein,2417,Chennai Super Kings,True,186,29,157,0,28,6.32,36.6%,13,54.6,1.83,62.45,65.594,65.6,Moderate
+10,Sufiyan Muqeem,34485,Pakistan,False,199,0,134,65,16,5.52,52.3%,18,53.8,6.2,63.48,63.262,63.3,High
+11,Mohsin Khan,6669,Lucknow Super Giants,True,167,167,0,0,20,8.41,35.3%,13,34.5,1.72,56.06,62.528,62.5,Not Top-10 Evaluated
+12,Kuldeep Yadav,3644,Delhi Capitals,True,525,385,140,0,57,7.26,37.1%,46,85.5,16.38,64.39,62.477,62.5,Not Top-10 Evaluated
+13,Lungi Ngidi,4641,Delhi Capitals,True,243,82,161,0,29,8.67,35.0%,22,26.5,4.57,53.28,60.765,60.8,Not Top-10 Evaluated
+14,Obed McCoy,4837,Rajasthan Royals,True,260,64,196,0,26,9.51,31.5%,24,-4.4,3.6,45.04,60.372,60.4,Not Top-10 Evaluated
+15,Shadab Khan,4926,Pakistan,False,223,0,223,0,23,6.4,39.5%,19,30.8,5.67,60.09,59.722,59.7,Not Top-10 Evaluated
+16,Tim Southee,278,Kolkata Knight Riders,True,237,62,175,0,26,8.2,30.8%,24,23.8,5.5,55.68,57.633,57.6,Not Top-10 Evaluated
+17,Haris Rauf,7364,Pakistan,False,366,0,366,0,35,8.44,37.2%,38,33.3,9.6,55.53,54.675,54.7,Not Top-10 Evaluated
+18,Kyle Jamieson,3697,Chennai Super Kings,True,185,30,155,0,19,8.34,34.1%,14,10.8,0.59,54.12,54.593,54.6,Not Top-10 Evaluated
+19,Arshdeep Singh,6464,Punjab Kings,True,1095,495,600,0,116,8.88,31.7%,86,94.9,2.85,51.59,53.076,53.1,Not Top-10 Evaluated
+20,Gerald Coetzee,6628,Gujarat Titans,True,189,109,80,0,20,8.79,31.2%,15,22.8,2.83,56.11,52.624,52.6,Not Top-10 Evaluated
+21,Rasikh Salam,7327,Royal Challengers Bengaluru,True,217,183,0,34,19,8.9,31.8%,25,19.7,9.5,63.84,52.542,52.5,Not Top-10 Evaluated
+22,Akash Madhwal,8177,Mumbai Indians,True,154,154,0,0,14,9.27,27.9%,11,14.2,0.62,52.92,52.099,52.1,Not Top-10 Evaluated
+23,Eshan Malinga,39657,Sunrisers Hyderabad,True,299,175,82,42,28,8.51,32.1%,20,45.2,-1.02,52.08,51.833,51.8,Not Top-10 Evaluated
+24,Yash Dayal,7322,Royal Challengers Bengaluru,True,243,243,0,0,31,8.94,30.5%,17,23.4,-0.27,51.16,51.566,51.6,Not Top-10 Evaluated
+25,Mustafizur Rahman,4373,Delhi Capitals,True,619,188,431,0,56,7.94,35.2%,39,105.5,-7.57,49.18,51.502,51.5,Not Top-10 Evaluated
+26,Rahul Chahar,6161,Punjab Kings,True,173,150,0,23,21,8.05,37.0%,10,6.1,0.29,42.99,50.51,50.5,Not Top-10 Evaluated
+27,Maheesh Theekshana,19316,Chennai Super Kings,True,573,240,333,0,59,7.83,31.1%,29,63.0,-6.65,45.14,50.066,50.1,Not Top-10 Evaluated
+28,Varun Chakravarthy,6256,Kolkata Knight Riders,True,648,379,269,0,65,7.55,42.0%,49,52.0,11.8,51.51,49.523,49.5,Not Top-10 Evaluated
+29,Noor Ahmad,7967,Gujarat Titans,True,457,322,135,0,40,7.61,38.3%,34,36.6,7.16,49.16,49.346,49.3,Not Top-10 Evaluated
+30,Kagiso Rabada,3628,Punjab Kings,True,356,242,114,0,46,9.17,34.8%,27,20.3,4.06,49.8,47.885,47.9,Not Top-10 Evaluated
+31,Bhuvneshwar Kumar,360,Sunrisers Hyderabad,True,652,519,133,0,72,9.18,26.8%,42,52.6,-4.96,43.61,47.869,47.9,Not Top-10 Evaluated
+32,Blessing Muzarabani,6523,Kolkata Knight Riders,True,200,6,194,0,24,8.73,33.0%,18,18.0,3.03,46.09,47.594,47.6,Not Top-10 Evaluated
+33,Suyash Sharma,36982,Kolkata Knight Riders,True,288,258,0,30,28,7.69,38.5%,14,19.5,-1.87,45.74,47.189,47.2,Not Top-10 Evaluated
+34,Mohammad Saifuddin,38855,Bangladesh,True,174,0,174,0,16,7.86,33.3%,12,12.6,-1.67,46.49,46.862,46.9,Not Top-10 Evaluated
+35,Marco Jansen,7808,Sunrisers Hyderabad,True,281,201,80,0,37,9.44,31.3%,14,17.3,-4.4,44.37,46.441,46.4,Not Top-10 Evaluated
+36,Jofra Archer,3298,Mumbai Indians,True,337,189,148,0,40,8.94,32.6%,23,29.9,-0.18,48.31,45.717,45.7,Not Top-10 Evaluated
+37,Yuzvendra Chahal,1612,Rajasthan Royals,True,637,505,132,0,66,8.55,31.2%,50,16.4,10.31,49.21,45.548,45.5,Not Top-10 Evaluated
+38,Adam Milne,1487,Chennai Super Kings,True,151,0,151,0,19,9.18,37.7%,15,-3.6,3.6,48.27,45.475,45.5,Not Top-10 Evaluated
+39,Adam Zampa,2636,Rajasthan Royals,True,339,54,285,0,36,8.46,32.7%,30,-6.7,9.03,47.21,45.41,45.4,Not Top-10 Evaluated
+40,Xavier Bartlett,5738,Punjab Kings,True,154,60,94,0,18,8.77,29.9%,8,13.9,-1.64,48.53,44.425,44.4,Not Top-10 Evaluated
+41,Naseem Shah,8049,Pakistan,False,159,0,159,0,18,8.08,34.6%,10,6.7,-2.16,44.39,44.274,44.3,Not Top-10 Evaluated
+42,T Natarajan,4265,Sunrisers Hyderabad,True,413,413,0,0,36,9.4,26.6%,31,14.8,1.66,45.0,43.895,43.9,Not Top-10 Evaluated
+43,Naveen ul Haq,5809,Lucknow Super Giants,True,291,167,124,0,29,8.85,30.2%,20,8.2,-2.55,42.04,43.767,43.8,Not Top-10 Evaluated
+44,Ravichandran Ashwin,305,Rajasthan Royals,True,302,228,74,0,35,7.57,34.4%,12,17.7,-6.76,35.95,43.068,43.1,Not Top-10 Evaluated
+45,Jamie Overton,2382,Chennai Super Kings,True,222,89,133,0,19,7.95,40.1%,20,21.0,5.21,56.83,42.987,43.0,Not Top-10 Evaluated
+46,Harshit Rana,29888,Kolkata Knight Riders,True,222,161,61,0,26,8.68,36.9%,17,-3.2,1.61,47.45,41.972,42.0,Not Top-10 Evaluated
+47,Shardul Thakur,2847,Chennai Super Kings,True,323,311,12,0,34,9.36,32.2%,24,4.2,1.14,47.74,41.578,41.6,Not Top-10 Evaluated
+48,Ravindra Jadeja,152,Chennai Super Kings,True,266,228,38,0,30,7.89,31.2%,16,-0.2,2.12,42.83,41.414,41.4,Not Top-10 Evaluated
+49,Rashid Khan,4722,Gujarat Titans,True,841,511,330,0,80,7.9,34.6%,67,29.2,16.2,46.22,41.338,41.3,Not Top-10 Evaluated
+50,Krunal Pandya,4219,Lucknow Super Giants,True,228,228,0,0,30,8.32,34.6%,13,7.7,-0.15,39.62,41.136,41.1,Not Top-10 Evaluated
+51,Harshal Patel,2261,Royal Challengers Bengaluru,True,704,508,196,0,60,9.0,31.5%,53,15.7,1.42,42.94,41.018,41.0,Not Top-10 Evaluated
+52,Jaydev Unadkat,1071,Sunrisers Hyderabad,True,152,152,0,0,18,9.79,30.3%,14,-3.3,2.63,47.14,40.434,40.4,Not Top-10 Evaluated
+53,Axar Patel,2876,Delhi Capitals,True,574,188,386,0,67,7.85,36.1%,25,11.9,-10.66,35.91,39.846,39.8,Not Top-10 Evaluated
+54,Mohit Sharma,2878,Gujarat Titans,True,338,338,0,0,27,9.44,29.0%,28,-6.5,4.27,45.27,39.734,39.7,Not Top-10 Evaluated
+55,Mohammad Rishad Hossain,8380,Bangladesh,True,307,0,307,0,27,7.5,37.1%,20,-23.7,2.39,42.74,39.454,39.5,Not Top-10 Evaluated
+56,Sikandar Raza,2984,Punjab Kings,True,198,7,191,0,24,7.45,32.3%,10,0.9,-0.49,39.0,39.368,39.4,Not Top-10 Evaluated
+57,Mitchell Starc,829,Delhi Capitals,True,190,146,44,0,26,9.35,37.9%,27,-3.3,10.91,55.8,39.182,39.2,Not Top-10 Evaluated
+58,Dushmantha Chameera,2399,Delhi Capitals,True,304,106,198,0,31,9.16,31.9%,23,16.3,0.58,46.9,38.849,38.8,Not Top-10 Evaluated
+59,Avesh Khan,3653,Lucknow Super Giants,True,583,413,170,0,63,9.59,29.8%,39,-9.3,-4.91,39.89,37.999,38.0,Not Top-10 Evaluated
+60,Jason Holder,2633,Gujarat Titans,True,661,274,387,0,68,9.42,27.8%,55,-8.2,8.12,43.63,37.792,37.8,Not Top-10 Evaluated
+61,Jimmy Neesham,3323,Rajasthan Royals,True,199,0,199,0,20,8.83,37.2%,19,-28.6,5.6,42.24,37.115,37.1,Not Top-10 Evaluated
+62,Alzarri Joseph,3275,Gujarat Titans,True,333,109,224,0,39,9.35,29.7%,18,11.5,-5.58,44.45,36.994,37.0,Not Top-10 Evaluated
+63,Josh Hazlewood,830,Royal Challengers Bengaluru,True,441,295,146,0,48,9.05,35.6%,30,-3.5,-1.47,38.58,36.713,36.7,Not Top-10 Evaluated
+64,FazalHaq Farooqi,7240,Sunrisers Hyderabad,True,287,50,237,0,34,9.09,28.6%,15,-0.9,-8.67,31.23,35.93,35.9,Not Top-10 Evaluated
+65,Nathan Ellis,7920,Punjab Kings,True,371,114,257,0,33,8.47,35.3%,29,29.2,1.92,43.25,35.919,35.9,Not Top-10 Evaluated
+66,Cameron Green,5939,Kolkata Knight Riders,True,192,139,53,0,26,9.22,31.2%,12,-10.1,-1.02,40.67,35.547,35.5,Not Top-10 Evaluated
+67,Patrick Cummins,1758,Sunrisers Hyderabad,True,344,282,62,0,37,9.72,25.3%,19,2.5,-4.76,36.58,35.522,35.5,Not Top-10 Evaluated
+68,Taskin Ahmed,2681,Bangladesh,True,314,0,314,0,36,8.48,38.9%,25,-18.0,1.88,37.01,35.434,35.4,Not Top-10 Evaluated
+69,Prince Yadav,58246,Lucknow Super Giants,True,199,115,84,0,20,9.44,22.6%,8,9.2,-5.67,36.46,35.19,35.2,Not Top-10 Evaluated
+70,Lockie Ferguson,4692,Punjab Kings,True,347,185,162,0,38,8.84,32.9%,18,11.9,-7.3,36.29,35.159,35.2,Not Top-10 Evaluated
+71,Jacob Duffy,22920,Royal Challengers Bengaluru,True,248,41,207,0,27,9.6,36.3%,22,-32.6,3.86,34.61,34.258,34.3,Not Top-10 Evaluated
+72,Azmatullah Omarzai,6676,Punjab Kings,True,235,94,141,0,32,9.7,32.3%,18,-28.2,0.43,33.4,33.969,34.0,Not Top-10 Evaluated
+73,Richard Ngarava,4874,Zimbabwe,True,199,0,199,0,20,9.17,31.2%,13,-1.7,-1.79,33.34,33.892,33.9,Not Top-10 Evaluated
+74,Reece Topley,2315,Royal Challengers Bengaluru,True,183,22,161,0,21,10.33,26.2%,13,-18.0,-1.52,30.97,33.839,33.8,Not Top-10 Evaluated
+75,Yash Thakur,6287,Lucknow Super Giants,True,251,203,24,24,20,9.49,31.5%,18,-5.3,-1.2,41.3,33.626,33.6,Not Top-10 Evaluated
+76,Wanindu Hasaranga,4900,Royal Challengers Bengaluru,True,511,209,302,0,54,8.18,34.4%,47,-30.3,17.19,43.84,32.578,32.6,Not Top-10 Evaluated
+77,Trent Boult,2320,Rajasthan Royals,True,347,275,72,0,44,9.44,28.2%,22,-20.8,-3.18,32.62,32.202,32.2,Not Top-10 Evaluated
+78,Mohammed Siraj,5944,Royal Challengers Bengaluru,True,452,413,39,0,61,9.37,33.2%,27,-9.2,-5.88,35.45,31.67,31.7,Not Top-10 Evaluated
+79,Prasidh Krishna,4489,Rajasthan Royals,True,397,331,66,0,39,9.69,36.8%,31,-27.2,2.61,36.96,31.071,31.1,Not Top-10 Evaluated
+80,Adil Rashid,479,Sunrisers Hyderabad,True,414,6,408,0,39,9.03,34.8%,31,-42.4,4.56,33.24,31.035,31.0,Not Top-10 Evaluated
+81,Joshua Little,4807,Gujarat Titans,True,209,87,122,0,25,8.64,26.8%,14,-4.8,-0.04,38.41,29.697,29.7,Not Top-10 Evaluated
+82,Washington Sundar,4823,Sunrisers Hyderabad,True,219,60,159,0,24,7.78,32.0%,12,8.7,-1.15,40.39,29.163,29.2,Not Top-10 Evaluated
+83,Mayank Yadav,27960,Lucknow Super Giants,True,162,49,113,0,18,9.37,36.4%,10,-17.1,-1.41,33.57,29.162,29.2,Not Top-10 Evaluated
+84,Faheem Ashraf,5189,Pakistan,False,160,0,160,0,21,8.74,38.1%,11,-22.7,-0.37,32.26,29.137,29.1,Not Top-10 Evaluated
+85,Andre Russell,1318,Kolkata Knight Riders,True,288,225,63,0,36,10.0,33.3%,30,-37.0,8.84,47.49,28.802,28.8,Not Top-10 Evaluated
+86,Vyshak Kumar,4487,Punjab Kings,True,170,146,0,24,19,10.45,32.4%,10,-22.2,-1.14,34.24,28.116,28.1,Not Top-10 Evaluated
+87,Abhishek Sharma,6281,Sunrisers Hyderabad,True,176,53,116,7,23,8.69,33.0%,10,-24.4,-1.81,31.39,27.914,27.9,Not Top-10 Evaluated
+88,Kartik Tyagi,8530,Sunrisers Hyderabad,True,152,152,0,0,13,10.14,32.2%,9,-14.8,-1.95,33.32,27.884,27.9,Not Top-10 Evaluated
+89,Liam Livingstone,4391,Punjab Kings,True,171,53,118,0,19,8.95,31.0%,9,-28.3,-0.6,34.35,27.654,27.7,Not Top-10 Evaluated
+90,Tushar Deshpande,6806,Chennai Super Kings,True,308,296,12,0,35,10.6,29.9%,26,-38.1,3.08,36.72,27.565,27.6,Not Top-10 Evaluated
+91,Vaibhav Arora,8746,Kolkata Knight Riders,True,213,201,0,12,28,10.11,29.1%,15,-30.1,0.01,34.11,26.012,26.0,Not Top-10 Evaluated
+92,Ish Sodhi,2526,New Zealand,True,284,0,284,0,30,8.68,38.0%,21,-63.2,3.09,30.03,24.983,25.0,Not Top-10 Evaluated
+93,Barry McCarthy,5441,Ireland,True,186,0,186,0,20,9.26,30.1%,11,-21.5,-3.09,26.07,24.922,24.9,Not Top-10 Evaluated
+94,Nuwan Thushara,19312,Royal Challengers Bengaluru,True,224,56,168,0,26,9.99,21.0%,10,-24.7,-5.89,24.85,23.616,23.6,Not Top-10 Evaluated
+95,Nitish Reddy,8221,Sunrisers Hyderabad,True,216,90,126,0,25,10.25,26.9%,16,-39.3,0.29,32.61,23.583,23.6,Not Top-10 Evaluated
+96,Ravi Bishnoi,7503,Lucknow Super Giants,True,730,302,428,0,76,8.62,39.6%,53,-44.3,7.63,37.35,23.25,23.2,Not Top-10 Evaluated
+97,Mukesh Kumar,5041,Delhi Capitals,True,414,282,132,0,40,10.2,27.1%,28,-53.5,-3.76,32.11,22.861,22.9,Not Top-10 Evaluated
+98,Mark Adair,5379,Ireland,True,266,0,266,0,28,10.38,28.9%,23,-49.5,1.37,24.86,21.888,21.9,Not Top-10 Evaluated
+99,Chris Jordan,786,Chennai Super Kings,True,279,106,173,0,23,9.72,27.6%,11,-12.3,-9.42,33.66,21.668,21.7,Not Top-10 Evaluated
+100,Sam Curran,4409,Punjab Kings,True,429,135,294,0,50,10.18,24.7%,32,-49.5,0.93,32.77,19.74,19.7,Not Top-10 Evaluated
+101,Dwaine Pretorius,2334,Chennai Super Kings,True,181,101,80,0,14,10.01,28.2%,12,-28.4,-1.21,23.72,19.377,19.4,Not Top-10 Evaluated
+102,Sandeep Sharma,2411,Rajasthan Royals,True,343,343,0,0,35,10.79,21.9%,23,-51.8,-3.8,22.37,18.466,18.5,Not Top-10 Evaluated
+103,Mohammed Shami,1566,Gujarat Titans,True,235,226,9,0,36,10.42,25.1%,17,-43.6,0.51,28.51,17.896,17.9,Not Top-10 Evaluated
+104,Shoriful Islam,7344,Bangladesh,True,199,0,199,0,22,9.92,28.6%,12,-46.9,-1.41,21.46,17.696,17.7,Not Top-10 Evaluated
+105,Marcus Stoinis,2639,Lucknow Super Giants,True,202,79,123,0,26,10.4,31.2%,18,-48.3,3.02,32.17,16.551,16.6,Not Top-10 Evaluated
+106,Hardik Pandya,3330,Mumbai Indians,True,403,165,238,0,54,9.51,33.7%,29,-78.3,1.73,28.46,14.872,14.9,Not Top-10 Evaluated
+107,Khaleel Ahmed,4816,Delhi Capitals,True,283,265,18,0,39,10.66,33.2%,24,-56.9,4.74,29.13,13.982,14.0,Not Top-10 Evaluated
+108,Romario Shepherd,6726,Royal Challengers Bengaluru,True,495,138,357,0,55,10.55,28.7%,40,-121.4,4.31,29.27,13.834,13.8,Not Top-10 Evaluated
+109,Anrich Nortje,7270,Delhi Capitals,True,295,229,66,0,30,10.94,28.1%,15,-64.7,-6.09,21.03,11.704,11.7,Not Top-10 Evaluated
+110,Shivam Dube,4755,Chennai Super Kings,True,187,18,169,0,22,10.59,28.3%,11,-75.0,-1.82,14.49,11.667,11.7,Not Top-10 Evaluated
+111,Tanzim Sakib,7905,Bangladesh,True,228,0,228,0,23,10.0,28.9%,12,-70.4,-4.03,13.88,11.176,11.2,Not Top-10 Evaluated

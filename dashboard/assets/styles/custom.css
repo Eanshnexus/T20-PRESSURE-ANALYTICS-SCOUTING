@@ -1,0 +1,444 @@
+/* ==========================================================================
+   T20 PRESSURE ANALYTICS — PREMIUM SPORTS ANALYTICS THEME
+   Palette:
+     Primary BG:       #101426 (Deep Navy)
+     Secondary BG:     #211B36 (Dark Purple)
+     Primary Accent:   #EA3D91 (Vibrant Pink)
+     Secondary Accent: #F4C542 (Gold)
+     Supporting Accent:#35C6B5 (Teal)
+     Primary Text:     #F5F6FA (Soft White)
+     Secondary Text:   #A7AEC0 (Muted Grey)
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@600;700;800&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #F5F6FA;
+}
+
+/* Main App Canvas */
+.stApp {
+    background-color: #101426;
+    background-image: radial-gradient(circle at 12% 0%, rgba(234, 61, 145, 0.08) 0%, transparent 40%),
+                      radial-gradient(circle at 88% 15%, rgba(53, 198, 181, 0.06) 0%, transparent 40%);
+}
+
+/* Main Container Padding */
+.block-container {
+    padding-top: 1.6rem !important;
+    padding-bottom: 3rem !important;
+    max-width: 1440px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    font-family: 'Outfit', 'Inter', sans-serif !important;
+    letter-spacing: -0.02em;
+    color: #F5F6FA !important;
+}
+
+/* Sidebar Styling & Tight Vertical Rhythm */
+section[data-testid="stSidebar"] {
+    background-color: #161830 !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+section[data-testid="stSidebar"] div[data-testid="stSidebarUserContent"] {
+    padding-top: 0.85rem !important;
+    padding-bottom: 0.85rem !important;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] {
+    gap: 0.28rem !important;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stMarkdown"],
+section[data-testid="stSidebar"] div[data-testid="stMarkdownContainer"] {
+    margin-bottom: 0 !important;
+}
+
+section[data-testid="stSidebar"] .stMarkdown p {
+    color: #A7AEC0;
+    margin-bottom: 0 !important;
+}
+
+.sidebar-nav-label {
+    display: block;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: #7E87A3;
+    padding: 10px 0 2px 6px;
+    margin: 0;
+    line-height: 1.25;
+}
+
+/* Interactive Sidebar Page Links */
+section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"] {
+    border-radius: 8px !important;
+    padding: 0.38rem 0.68rem !important;
+    min-height: 34px !important;
+    margin: 0 !important;
+    transition: all 0.18s ease !important;
+    border: 1px solid transparent !important;
+}
+
+section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"] p {
+    font-size: 0.87rem !important;
+    line-height: 1.25 !important;
+}
+
+section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"]:hover {
+    background: rgba(234, 61, 145, 0.14) !important;
+    border-color: rgba(234, 61, 145, 0.35) !important;
+    transform: translateX(3px);
+}
+
+section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"][aria-current="page"] {
+    background: linear-gradient(90deg, rgba(234, 61, 145, 0.22) 0%, rgba(33, 27, 54, 0.85) 100%) !important;
+    border-left: 3px solid #EA3D91 !important;
+    color: #F5F6FA !important;
+    font-weight: 700 !important;
+}
+
+.hero-author {
+    display: inline-block;
+    font-size: 0.84rem;
+    font-weight: 700;
+    color: #35C6B5;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.55rem;
+}
+
+/* Mode Banner Badges */
+.mode-badge-local {
+    background: rgba(53, 198, 181, 0.14);
+    border: 1px solid rgba(53, 198, 181, 0.45);
+    color: #35C6B5;
+    padding: 0.45rem 0.75rem;
+    border-radius: 8px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.mode-badge-demo {
+    background: rgba(244, 197, 66, 0.15);
+    border: 1px solid rgba(244, 197, 66, 0.55);
+    color: #F4C542;
+    padding: 0.45rem 0.75rem;
+    border-radius: 8px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-align: center;
+    margin-bottom: 0.75rem;
+}
+
+.demo-warning-strip {
+    background: rgba(244, 197, 66, 0.12);
+    border-left: 4px solid #F4C542;
+    border-radius: 0 8px 8px 0;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1.25rem;
+    color: #F5F6FA;
+    font-size: 0.88rem;
+}
+
+/* Hero Banner */
+.hero-banner {
+    position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(234, 61, 145, 0.30);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.45);
+    margin-bottom: 1.75rem;
+    min-height: 290px;
+    display: flex;
+    align-items: flex-end;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-overlay {
+    width: 100%;
+    padding: 2.2rem 2.4rem;
+    background: linear-gradient(90deg, rgba(16, 20, 38, 0.94) 0%, rgba(33, 27, 54, 0.82) 55%, rgba(16, 20, 38, 0.40) 100%);
+}
+
+.hero-eyebrow {
+    display: inline-block;
+    background: rgba(234, 61, 145, 0.18);
+    border: 1px solid rgba(234, 61, 145, 0.55);
+    color: #EA3D91;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+    margin-bottom: 0.8rem;
+}
+
+.hero-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: 2.55rem;
+    font-weight: 800;
+    line-height: 1.1;
+    color: #F5F6FA;
+    margin: 0 0 0.55rem 0;
+}
+
+.hero-subtitle {
+    font-size: 1.08rem;
+    color: #F4C542;
+    font-weight: 600;
+    margin: 0 0 0.75rem 0;
+}
+
+.hero-desc {
+    font-size: 0.94rem;
+    color: #CBD5E1;
+    max-width: 720px;
+    line-height: 1.55;
+    margin: 0;
+}
+
+/* Section Banner (Smaller Page Headers) */
+.page-banner {
+    position: relative;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    margin-bottom: 1.4rem;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.32);
+}
+
+.page-banner-overlay {
+    padding: 1.5rem 2rem;
+    background: linear-gradient(90deg, rgba(16, 20, 38, 0.95) 0%, rgba(33, 27, 54, 0.86) 62%, rgba(16, 20, 38, 0.55) 100%);
+}
+
+.page-banner-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #F5F6FA;
+    margin: 0 0 0.25rem 0;
+}
+
+.page-banner-sub {
+    font-size: 0.92rem;
+    color: #A7AEC0;
+    margin: 0;
+}
+
+/* KPI Metric Cards */
+.kpi-card {
+    background: linear-gradient(145deg, #211B36 0%, #17182E 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.15rem 1.25rem;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    min-height: 122px;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(234, 61, 145, 0.45);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+}
+
+.kpi-accent-pink { border-top: 3px solid #EA3D91; }
+.kpi-accent-gold { border-top: 3px solid #F4C542; }
+.kpi-accent-teal { border-top: 3px solid #35C6B5; }
+
+.kpi-label {
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #A7AEC0;
+    margin-bottom: 0.35rem;
+}
+
+.kpi-value {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #F5F6FA;
+    line-height: 1.15;
+    margin-bottom: 0.25rem;
+}
+
+.kpi-sub {
+    font-size: 0.79rem;
+    color: #A7AEC0;
+}
+
+/* Section Headers */
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.section-bar-pink { width: 4px; height: 22px; background: #EA3D91; border-radius: 2px; }
+.section-bar-gold { width: 4px; height: 22px; background: #F4C542; border-radius: 2px; }
+.section-bar-teal { width: 4px; height: 22px; background: #35C6B5; border-radius: 2px; }
+
+.section-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #F5F6FA;
+    margin: 0;
+}
+
+/* Info / Insight Callout Cards */
+.insight-card {
+    background: #1B1830;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-left: 4px solid #35C6B5;
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.9rem;
+}
+
+.insight-card-pink { border-left-color: #EA3D91; }
+.insight-card-gold { border-left-color: #F4C542; }
+
+.insight-card h4 {
+    font-size: 0.98rem !important;
+    margin: 0 0 0.35rem 0 !important;
+    color: #F5F6FA !important;
+}
+
+.insight-card p {
+    font-size: 0.86rem;
+    color: #CBD5E1;
+    margin: 0;
+    line-height: 1.5;
+}
+
+/* Player Profile Header Card */
+.profile-card {
+    background: linear-gradient(135deg, #211B36 0%, #14182D 100%);
+    border: 1px solid rgba(234, 61, 145, 0.35);
+    border-radius: 14px;
+    padding: 1.35rem 1.6rem;
+    margin-bottom: 1.15rem;
+}
+
+.rank-pill-gold {
+    display: inline-block;
+    background: rgba(244, 197, 66, 0.16);
+    border: 1px solid #F4C542;
+    color: #F4C542;
+    font-size: 0.78rem;
+    font-weight: 800;
+    padding: 0.22rem 0.65rem;
+    border-radius: 999px;
+    margin-right: 0.5rem;
+}
+
+.pill-teal {
+    display: inline-block;
+    background: rgba(53, 198, 181, 0.14);
+    border: 1px solid rgba(53, 198, 181, 0.5);
+    color: #35C6B5;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    margin-right: 0.45rem;
+}
+
+.pill-pink {
+    display: inline-block;
+    background: rgba(234, 61, 145, 0.16);
+    border: 1px solid rgba(234, 61, 145, 0.55);
+    color: #EA3D91;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    margin-right: 0.45rem;
+}
+
+/* Streamlit Widget Refinements */
+div[data-testid="stMetric"] {
+    background: #211B36;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 0.85rem 1rem;
+}
+
+div[data-testid="stDataFrame"] {
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+    background-color: #161830;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.stTabs [data-baseweb="tab"] {
+    border-radius: 8px;
+    color: #A7AEC0;
+    font-weight: 600;
+    padding: 8px 16px;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #EA3D91 !important;
+    color: #F5F6FA !important;
+}
+
+div.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    border: 1px solid rgba(234, 61, 145, 0.45);
+    transition: all 0.2s ease;
+}
+
+div.stButton > button:hover {
+    border-color: #EA3D91;
+    background-color: rgba(234, 61, 145, 0.16);
+    color: #F5F6FA;
+}
+
+/* Footer */
+.app-footer {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    text-align: center;
+    font-size: 0.78rem;
+    color: #A7AEC0;
+}
+
+/* Responsive Tweaks */
+@media (max-width: 768px) {
+    .hero-title { font-size: 1.8rem; }
+    .hero-overlay { padding: 1.4rem 1.2rem; }
+    .kpi-value { font-size: 1.45rem; }
+}

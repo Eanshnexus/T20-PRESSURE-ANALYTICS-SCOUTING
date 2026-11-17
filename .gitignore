@@ -1,0 +1,29 @@
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Raw proprietary competition data & binary intermediate datasets
+# (Preserved locally — excluded from Git publication)
+ball_by_ball.csv
+matches.csv
+competitions.csv
+teams.csv
+playing_eleven.csv
+competition_team_player_mapping.csv
+Round 1 Problem Statement*.pdf
+outputs/processed/
+*.parquet
+
+# Compressed archives, logs & OS metadata
+*.zip
+*.tar.gz
+*.7z
+*.log
+.DS_Store
+._*
+Thumbs.db
